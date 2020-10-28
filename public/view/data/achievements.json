@@ -1,0 +1,2099 @@
+{
+  "achievements": {
+    "die-die-die-die": {
+      "name": "Die Die Die... Die",
+      "reward": "Cute",
+      "quality": "common",
+      "type": "spray",
+      "description": "Kill 4 enemies with a single use of Reaper's Death Blossom in Quick or Competitive Play.",
+      "hero": "reaper"
+    },
+    "centenary": {
+      "name": "Centenary",
+      "reward": "Victory",
+      "quality": "common",
+      "type": "spray",
+      "description": "Win 100 games in Quick or Competitive Play.",
+      "hero": "all"
+    },
+    "level-10": {
+      "name": "Level 10",
+      "reward": "Forge Onward",
+      "quality": "common",
+      "type": "spray",
+      "description": "Reach level 10.",
+      "hero": "all"
+    },
+    "level-25": {
+      "name": "Level 25",
+      "reward": "Rise",
+      "quality": "common",
+      "type": "spray",
+      "description": "Reach level 25.",
+      "hero": "all"
+    },
+    "level-50": {
+      "name": "Level 50",
+      "reward": "Respect",
+      "quality": "common",
+      "type": "spray",
+      "description": "Reach level 50.",
+      "hero": "all"
+    },
+    "slice-and-dice": {
+      "name": "Slice and Dice",
+      "reward": "Cute",
+      "quality": "common",
+      "type": "spray",
+      "description": "Kill 4 enemies with a single use of Genji's Dragonblade in Quick or Competitive Play.",
+      "hero": "genji"
+    },
+    "undying": {
+      "name": "Undying",
+      "reward": "Tea Time",
+      "quality": "common",
+      "type": "spray",
+      "description": "Get a 20 player kill streak in Quick or Competitive Play.",
+      "hero": "all"
+    },
+    "the-path-is-closed": {
+      "name": "The Path Is Closed",
+      "reward": "Sorry",
+      "quality": "common",
+      "type": "spray",
+      "description": "Destroy 3 of Symmetra's Teleporters in a single Quick or Competitive Play game.",
+      "hero": "all"
+    },
+    "survival-expert": {
+      "name": "Survival Expert",
+      "reward": "Piñata",
+      "quality": "common",
+      "type": "spray",
+      "description": "Use health packs to heal 900 health in a single life in Quick or Competitive Play.",
+      "hero": "all"
+    },
+    "decorated": {
+      "name": "Decorated",
+      "reward": "Well Played",
+      "quality": "common",
+      "type": "spray",
+      "description": "Earn 50 postgame medals in Quick or Competitive Play.",
+      "hero": "all"
+    },
+    "blackjack": {
+      "name": "Blackjack",
+      "reward": "Thanks",
+      "quality": "common",
+      "type": "spray",
+      "description": "Earn 21 postgame cards in Quick or Competitive Play.",
+      "hero": "all"
+    },
+    "decked-out": {
+      "name": "Decked Out",
+      "reward": "Oops",
+      "quality": "common",
+      "type": "spray",
+      "description": "Collect 50 unlocks for a single hero.",
+      "hero": "all"
+    },
+    "their-own-worst-enemy": {
+      "name": "Their Own Worst Enemy",
+      "reward": "Pixel",
+      "quality": "common",
+      "type": "spray",
+      "description": "Kill 2 enemies with a single use of Genji's Deflection in Quick or Competitive Play.",
+      "hero": "genji"
+    },
+    "waste-not-want-not": {
+      "name": "Waste Not, Want Not",
+      "reward": "Pixel",
+      "quality": "common",
+      "type": "spray",
+      "description": "Get 3 solo kills with a single clip of Reaper's shotguns in Quick or Competitive Play.",
+      "hero": "reaper"
+    },
+    "whoa-there": {
+      "name": "Whoa There!",
+      "reward": "Pixel",
+      "quality": "common",
+      "type": "spray",
+      "description": "Interrupt an enemy ultimate ability with McCree's Flashbang in Quick or Competitive Play.",
+      "hero": "mccree"
+    },
+    "its-high-noon": {
+      "name": "It's High Noon",
+      "reward": "Cute",
+      "quality": "common",
+      "type": "spray",
+      "description": "Get 4 killing blows with a single use of McCree's Deadeye in Quick or Competitive Play.",
+      "hero": "mccree"
+    },
+    "death-from-above": {
+      "name": "Death From Above",
+      "reward": "Cute",
+      "quality": "common",
+      "type": "spray",
+      "description": "Kill 4 enemies in a row without touching the ground as Pharah in Quick or Competitive Play.",
+      "hero": "pharah"
+    },
+    "clearing-the-area": {
+      "name": "Clearing the Area",
+      "reward": "Pixel",
+      "quality": "common",
+      "type": "spray",
+      "description": "Knock an enemy to their death using Pharah's Concussive Blast in Quick or Competitive Play.",
+      "hero": "pharah"
+    },
+    "rocket-man": {
+      "name": "Rocket Man",
+      "reward": "Pixel",
+      "quality": "common",
+      "type": "spray",
+      "description": "Get 2 killing blows with a single use of Soldier: 76's Helix Rockets in Quick or Competitive Play.",
+      "hero": "soldier-76"
+    },
+    "target-rich-environment": {
+      "name": "Target Rich Environment",
+      "reward": "Cute",
+      "quality": "common",
+      "type": "spray",
+      "description": "Kill 4 enemies with a single use of Soldier: 76's Tactical Visor in Quick or Competitive Play.",
+      "hero": "soldier-76"
+    },
+    "total-recall": {
+      "name": "Total Recall",
+      "reward": "Pixel",
+      "quality": "common",
+      "type": "spray",
+      "description": "Recover 400 health using Tracer's Recall without dying in Quick or Competitive Play.",
+      "hero": "tracer"
+    },
+    "special-delivery": {
+      "name": "Special Delivery",
+      "reward": "Cute",
+      "quality": "common",
+      "type": "spray",
+      "description": "Stick 4 of Tracer's Pulse Bombs onto enemies in a single Quick or Competitive Play game.",
+      "hero": "tracer"
+    },
+    "triple-threat": {
+      "name": "Triple Threat",
+      "reward": "Pixel",
+      "quality": "common",
+      "type": "spray",
+      "description": "Kill 2 enemies in each of Bastion's configurations without dying in Quick or Competitive Play.",
+      "hero": "bastion"
+    },
+    "charge": {
+      "name": "Charge!",
+      "reward": "Cute",
+      "quality": "common",
+      "type": "spray",
+      "description": "Kill 4 enemies with a single use of Bastion's Configuration: Tank in Quick or Competitive Play.",
+      "hero": "bastion"
+    },
+    "simple-geometry": {
+      "name": "Simple Geometry",
+      "reward": "Pixel",
+      "quality": "common",
+      "type": "spray",
+      "description": "Get 3 killing blows with a single use of Hanzo's Storm Arrows in Quick or Competitive Play.",
+      "hero": "hanzo"
+    },
+    "the-dragon-is-sated": {
+      "name": "The Dragon Is Sated",
+      "reward": "Cute",
+      "quality": "common",
+      "type": "spray",
+      "description": "Kill 4 enemies with one of Hanzo's Spirit Dragons in Quick or Competitive Play.",
+      "hero": "hanzo"
+    },
+    "mine-like-a-steel-trap": {
+      "name": "Mine Like a Steel Trap",
+      "reward": "Pixel",
+      "quality": "common",
+      "type": "spray",
+      "description": "Knock an enemy into your Steel Trap using Junkrat's Concussion Mine in Quick or Competitive Play.",
+      "hero": "junkrat"
+    },
+    "roadkill": {
+      "name": "Roadkill",
+      "reward": "Cute",
+      "quality": "common",
+      "type": "spray",
+      "description": "Kill 4 enemies with a single use of Junkrat's RIP-Tire in Quick or Competitive Play.",
+      "hero": "junkrat"
+    },
+    "ice-blocked": {
+      "name": "Ice Blocked",
+      "reward": "Pixel",
+      "quality": "common",
+      "type": "spray",
+      "description": "Block 1200 damage with a single use of Mei's Ice Wall in Quick or Competitive Play.",
+      "hero": "mei"
+    },
+    "cold-snap": {
+      "name": "Cold Snap",
+      "reward": "Cute",
+      "quality": "common",
+      "type": "spray",
+      "description": "Freeze 4 enemies at once with Mei in Quick or Competitive Play.",
+      "hero": "mei"
+    },
+    "raid-wipe": {
+      "name": "Raid Wipe",
+      "reward": "Cute",
+      "quality": "common",
+      "type": "spray",
+      "description": "Kill 4 enemies during a single use of Torbjörn's Molten Core in Quick or Competitive Play.",
+      "hero": "torbjorn"
+    },
+    "armor-up": {
+      "name": "Armor Up!",
+      "reward": "Pixel",
+      "quality": "common",
+      "type": "spray",
+      "description": "Absorb 500 armor damage with Torbjörn's Overload without dying in Quick or Competitive Play.",
+      "hero": "torbjorn"
+    },
+    "did-that-sting": {
+      "name": "Did That Sting?",
+      "reward": "Pixel",
+      "quality": "common",
+      "type": "spray",
+      "description": "Kill 4 enemies using Widowmaker's Venom Mine during a single Quick or Competitive Play game.",
+      "hero": "widowmaker"
+    },
+    "smooth-as-silk": {
+      "name": "Smooth as Silk",
+      "reward": "Cute",
+      "quality": "common",
+      "type": "spray",
+      "description": "Kill an enemy with a scoped headshot while airborne as Widowmaker in Quick or Competitive Play.",
+      "hero": "widowmaker"
+    },
+    "shot-down": {
+      "name": "Shot Down",
+      "reward": "Pixel",
+      "quality": "common",
+      "type": "spray",
+      "description": "Prevent 1500 damage with a single use of D.va's Defense Matrix in Quick or Competitive Play.",
+      "hero": "dva"
+    },
+    "game-over": {
+      "name": "Game Over",
+      "reward": "Cute",
+      "quality": "common",
+      "type": "spray",
+      "description": "Kill 4 enemies with a single use of D.va's Self Destruct in Quick or Competitive Play.",
+      "hero": "dva"
+    },
+    "i-am-your-shield": {
+      "name": "I Am Your Shield",
+      "reward": "Pixel",
+      "quality": "common",
+      "type": "spray",
+      "description": "Block 8000 damage with Reinhardt's Barrier Field without dying in Quick or Competitive Play.",
+      "hero": "reinhardt"
+    },
+    "storm-earth-and-fire": {
+      "name": "Storm, Earth and Fire",
+      "reward": "Cute",
+      "quality": "common",
+      "type": "spray",
+      "description": "Land Reinhardt's Fire Strike and Charge after an Earthshatter stun in Quick or Competitive Play.",
+      "hero": "reinhardt"
+    },
+    "giving-you-the-hook": {
+      "name": "Giving You the Hook",
+      "reward": "Pixel",
+      "quality": "common",
+      "type": "spray",
+      "description": "Interrupt an enemy ultimate ability with Roadhog's Hook in Quick or Competitive Play.",
+      "hero": "roadhog"
+    },
+    "hog-wild": {
+      "name": "Hog Wild",
+      "reward": "Cute",
+      "quality": "common",
+      "type": "spray",
+      "description": "Knock 2 enemies to their deaths with one use of Roadhog's Whole Hog in Quick or Competitive Play.",
+      "hero": "roadhog"
+    },
+    "mine-sweeper": {
+      "name": "Mine Sweeper",
+      "reward": "Pixel",
+      "quality": "common",
+      "type": "spray",
+      "description": "Destroy 10 turrets or traps using Winston's Tesla Cannon without dying in Quick or Competitive Play.",
+      "hero": "winston"
+    },
+    "anger-management": {
+      "name": "Anger Management",
+      "reward": "Cute",
+      "quality": "common",
+      "type": "spray",
+      "description": "Damage 6 enemies during a single use of Winston's Primal Rage in Quick or Competitive Play.",
+      "hero": "winston"
+    },
+    "power-overwhelming": {
+      "name": "Power Overwhelming",
+      "reward": "Pixel",
+      "quality": "common",
+      "type": "spray",
+      "description": "Keep Zarya's particle cannon above 70 power for 60 seconds in Quick or Competitive Play.",
+      "hero": "zarya"
+    },
+    "the-power-of-attraction": {
+      "name": "The Power of Attraction",
+      "reward": "Cute",
+      "quality": "common",
+      "type": "spray",
+      "description": "Capture 5 enemies in a single use of Zarya's Graviton Surge in Quick or Competitive Play.",
+      "hero": "zarya"
+    },
+    "the-floor-is-lava": {
+      "name": "The Floor Is Lava",
+      "reward": "Pixel",
+      "quality": "common",
+      "type": "spray",
+      "description": "Get 3 killing blows while wall riding as Lúcio without dying in Quick or Competitive Play.",
+      "hero": "lucio"
+    },
+    "supersonic": {
+      "name": "Supersonic",
+      "reward": "Cute",
+      "quality": "common",
+      "type": "spray",
+      "description": "Block 1000 damage with a single use of Lúcio's Sound Barrier in Quick or Competitive Play.",
+      "hero": "lucio"
+    },
+    "group-health-plan": {
+      "name": "Group Health Plan",
+      "reward": "Pixel",
+      "quality": "common",
+      "type": "spray",
+      "description": "Restore 200 health for 5 allies without dying as Mercy in Quick or Competitive Play.",
+      "hero": "mercy"
+    },
+    "huge-rez": {
+      "name": "Huge Rez",
+      "reward": "Cute",
+      "quality": "common",
+      "type": "spray",
+      "description": "Resurrect 6 allies without dying as Mercy in Quick or Competitive Play.",
+      "hero": "mercy"
+    },
+    "the-car-wash": {
+      "name": "The Car Wash",
+      "reward": "Pixel",
+      "quality": "common",
+      "type": "spray",
+      "description": "Hit an enemy with 3 beams simultaneously as Symmetra in Quick or Competitive Play.",
+      "hero": "symmetra"
+    },
+    "huge-success": {
+      "name": "Huge Success",
+      "reward": "Cute",
+      "quality": "common",
+      "type": "spray",
+      "description": "Teleport 20 allies in a single Quick or Competitive Play game as Symmetra.",
+      "hero": "symmetra"
+    },
+    "rapid-discord": {
+      "name": "Rapid Discord",
+      "reward": "Pixel",
+      "quality": "common",
+      "type": "spray",
+      "description": "Get 4 kills or assists with Zenyatta's Orb of Discord within 6 seconds in Quick or Competitive Play.",
+      "hero": "zenyatta"
+    },
+    "the-iris-embraces-you": {
+      "name": "The Iris Embraces You",
+      "reward": "Cute",
+      "quality": "common",
+      "type": "spray",
+      "description": "Restore 1500 health with a single use of Zenyatta's Transcendence in Quick or Competitive Play.",
+      "hero": "zenyatta"
+    },
+    "lockdown": {
+      "name": "Lockdown",
+      "reward": "Jail",
+      "quality": "common",
+      "type": "spray",
+      "description": "Win a Capture map on defense without losing the first objective in Quick or Competitive Play.",
+      "hero": "all"
+    },
+    "double-cap": {
+      "name": "Double Cap",
+      "reward": "Beyond the Moon",
+      "quality": "common",
+      "type": "spray",
+      "description": "Capture both objectives on a Capture map without dying in Quick or Competitive Play.",
+      "hero": "all"
+    },
+    "escort-duty": {
+      "name": "Escort Duty",
+      "reward": "Out of My Way",
+      "quality": "common",
+      "type": "spray",
+      "description": "Push a payload 100 meters without leaving it in Quick or Competitive Play.",
+      "hero": "all"
+    },
+    "cant-touch-this": {
+      "name": "Can't Touch This",
+      "reward": "Red X",
+      "quality": "common",
+      "type": "spray",
+      "description": "Prevent the attacking team from touching the payload for 1 minute in Quick or Competitive Play.",
+      "hero": "all"
+    },
+    "shutout": {
+      "name": "Shutout",
+      "reward": "Red O",
+      "quality": "common",
+      "type": "spray",
+      "description": "Win a Control map without the enemy capturing an objective in Quick or Competitive Play.",
+      "hero": "all"
+    },
+    "world-traveler": {
+      "name": "World Traveler",
+      "reward": "GL HF",
+      "quality": "common",
+      "type": "spray",
+      "description": "Win a Quick or Competitive Play game on 12 different maps.",
+      "hero": "all"
+    },
+    "the-friend-zone": {
+      "name": "The Friend Zone",
+      "reward": "Man and Omnic",
+      "quality": "common",
+      "type": "spray",
+      "description": "Play a Quick or Competitive Play game in a group with a friend.",
+      "hero": "all"
+    },
+    "naptime": {
+      "name": "Naptime",
+      "reward": "Pixel",
+      "quality": "common",
+      "type": "spray",
+      "description": "Interrupt an enemy ultimate ability with Ana's Sleep Dart in Quick or Competitive Play.",
+      "hero": "ana"
+    },
+    "enabler": {
+      "name": "Enabler",
+      "reward": "Cute",
+      "quality": "common",
+      "type": "spray",
+      "description": "Get 4 kills or assists with a single use of Ana's Nano Boost in Quick or Competitive Play.",
+      "hero": "ana"
+    },
+    "survived-the-night": {
+      "name": "Survived the Night",
+      "reward": "Junkenstein's Revenge",
+      "quality": "common",
+      "type": "spray",
+      "description": "Win Junkenstein's Revenge on Hard difficulty.",
+      "hero": "all"
+    },
+    "not-a-scratch": {
+      "name": "Not a Scratch",
+      "reward": "The Reapening",
+      "quality": "common",
+      "type": "spray",
+      "description": "Win Junkenstein's Revenge on Hard difficulty with no damage to the door.",
+      "hero": "all"
+    },
+    "four-they-were": {
+      "name": "Four They Were",
+      "reward": "Rise of the Zomnics",
+      "quality": "common",
+      "type": "spray",
+      "description": "Win Junkenstein's Revenge using each of the 4 heroes.",
+      "hero": "all"
+    },
+    "held-the-door": {
+      "name": "Held The Door",
+      "reward": "Halloween Special",
+      "quality": "common",
+      "type": "spray",
+      "description": "Win Junkenstein's Revenge on Legendary difficulty.",
+      "hero": "all"
+    },
+    "hack-the-planet": {
+      "name": "Hack the Planet",
+      "reward": "Pixel",
+      "quality": "common",
+      "type": "spray",
+      "description": "Hack 15 enemies without dying as Sombra in Quick or Competitive Play.",
+      "hero": "sombra"
+    },
+    "power-outage": {
+      "name": "Power Outage",
+      "reward": "Cute",
+      "quality": "common",
+      "type": "spray",
+      "description": "Hack 6 enemies at once as Sombra in Quick or Competitive Play.",
+      "hero": "sombra"
+    },
+    "snowed-in": {
+      "name": "Snowed In",
+      "reward": "Snowmei",
+      "quality": "common",
+      "type": "spray",
+      "description": "Win Mei's Snowball Offensive without losing a round.",
+      "hero": "all"
+    },
+    "cool-as-ice": {
+      "name": "Cool As Ice",
+      "reward": "Snowreaper",
+      "quality": "common",
+      "type": "spray",
+      "description": "Kill 4 enemies without missing in Mei's Snowball Offensive.",
+      "hero": "all"
+    },
+    "whap": {
+      "name": "Whap!",
+      "reward": "Snowcree",
+      "quality": "common",
+      "type": "spray",
+      "description": "Kill an enemy with a snowball from 25 meters away in Mei's Snowball Offensive.",
+      "hero": "all"
+    },
+    "ambush": {
+      "name": "Ambush!",
+      "reward": "Snowhog",
+      "quality": "common",
+      "type": "spray",
+      "description": "Kill 3 enemies while they are picking up snow in a game of Mei's Snowball Offensive.",
+      "hero": "all"
+    },
+    "flagbearer": {
+      "name": "Flagbearer",
+      "reward": "Awakened Lion",
+      "quality": "common",
+      "type": "spray",
+      "description": "Win Capture the Flag with a score of 3 to 0.",
+      "hero": "all"
+    },
+    "cleanup-duty": {
+      "name": "Cleanup Duty",
+      "reward": "Auspicious Lion",
+      "quality": "common",
+      "type": "spray",
+      "description": "Recover a flag in a game of Capture the Flag.",
+      "hero": "all"
+    },
+    "halt-state": {
+      "name": "Halt State",
+      "reward": "Pixel",
+      "quality": "common",
+      "type": "spray",
+      "description": "Pull enemies into 1000 damage with a single use of Orisa's Halt! in Quick or Competitive Play.",
+      "hero": "orisa"
+    },
+    "overclocked": {
+      "name": "Overclocked",
+      "reward": "Cute",
+      "quality": "common",
+      "type": "spray",
+      "description": "Amplify 900 damage with a single use of Orisa's Supercharger in Quick or Competitive Play.",
+      "hero": "orisa"
+    },
+    "mission-complete": {
+      "name": "Mission Complete",
+      "reward": "Eradicator",
+      "quality": "common",
+      "type": "spray",
+      "description": "Complete Uprising on Hard difficulty.",
+      "hero": "all"
+    },
+    "unit-commendation": {
+      "name": "Unit Commendation",
+      "reward": "B73-NS",
+      "quality": "common",
+      "type": "spray",
+      "description": "Complete Uprising on Expert difficulty.",
+      "hero": "all"
+    },
+    "distinguished-service": {
+      "name": "Distinguished Service",
+      "reward": "OR14-NS",
+      "quality": "common",
+      "type": "spray",
+      "description": "Complete Uprising on Legendary difficulty.",
+      "hero": "all"
+    },
+    "handle-with-care": {
+      "name": "Handle With Care",
+      "reward": "Slicer",
+      "quality": "common",
+      "type": "spray",
+      "description": "Deliver the payload with over 80% health in Uprising on Hard difficulty.",
+      "hero": "all"
+    },
+    "strike-team": {
+      "name": "Strike Team",
+      "reward": "Nulltrooper",
+      "quality": "common",
+      "type": "spray",
+      "description": "Complete Uprising with each of the 4 heroes.",
+      "hero": "all"
+    },
+    "replacements": {
+      "name": "Replacements",
+      "reward": "Nullmari",
+      "quality": "common",
+      "type": "spray",
+      "description": "Complete Uprising (All Heroes) with 8 different heroes.",
+      "hero": "all"
+    },
+    "air-strike": {
+      "name": "Air Strike",
+      "reward": "Pixel",
+      "quality": "common",
+      "type": "spray",
+      "description": "Get a killing blow with Doomfist's full-power Seismic Slam in Quick or Competitive Play.",
+      "hero": "doomfist"
+    },
+    "cratered": {
+      "name": "Cratered",
+      "reward": "Cute",
+      "quality": "common",
+      "type": "spray",
+      "description": "Hit 6 enemies with a single use of Doomfist's Meteor Strike in Quick or Competitive Play.",
+      "hero": "doomfist"
+    },
+    "volley": {
+      "name": "Volley",
+      "reward": "Bicycle Kick",
+      "quality": "common",
+      "type": "spray",
+      "description": "Score a goal in Lúcioball with a shot taken from at least 4 meters in the air.",
+      "hero": "all"
+    },
+    "safe-hands": {
+      "name": "Safe Hands",
+      "reward": "Safe Hands",
+      "quality": "common",
+      "type": "spray",
+      "description": "Score 3 saves in a row in Lúcioball.",
+      "hero": "all"
+    },
+    "lucio-hat-trick": {
+      "name": "Lúcio Hat Trick",
+      "reward": "Goal Blossom",
+      "quality": "common",
+      "type": "spray",
+      "description": "Score a goal, a save, and an assist in a game of Lúcioball.",
+      "hero": "all"
+    },
+    "top-500": {
+      "name": null,
+      "description": "Unlocked by achieving top 500 ranking",
+      "reward": "Top 500",
+      "quality": "rare",
+      "type": "icon",
+      "hero": "all"
+    },
+    "season-1-competitor": {
+      "name": null,
+      "description": "Unlocked by completing Season 1 placement matches",
+      "reward": "Season 1 Competitor",
+      "quality": "common",
+      "type": "spray",
+      "hero": "all"
+    },
+    "season-1-hero": {
+      "name": null,
+      "description": "Unlocked by achieving top 500 ranking during Season 1",
+      "reward": "Season 1 Hero",
+      "quality": "common",
+      "type": "spray",
+      "hero": "all"
+    },
+    "season-2-competitor": {
+      "name": null,
+      "description": "Unlocked by completing Season 2 placement matches",
+      "reward": "Season 2 Competitor",
+      "quality": "common",
+      "type": "spray",
+      "hero": "all"
+    },
+    "season-2-hero": {
+      "name": null,
+      "description": "Unlocked by achieving top 500 ranking during Season 2",
+      "reward": "Season 2 Hero",
+      "quality": "common",
+      "type": "spray",
+      "hero": "all"
+    },
+    "season-3-competitor": {
+      "name": null,
+      "description": "Unlocked by completing Season 3 placement matches",
+      "reward": "Season 3 Competitor",
+      "quality": "common",
+      "type": "spray",
+      "hero": "all"
+    },
+    "season-3-hero": {
+      "name": null,
+      "description": "Unlocked by achieving top 500 ranking during Season 3",
+      "reward": "Season 3 Hero",
+      "quality": "common",
+      "type": "spray",
+      "hero": "all"
+    },
+    "season-4-competitor": {
+      "name": null,
+      "description": "Unlocked by completing Season 4 placement matches",
+      "reward": "Season 4 Competitor",
+      "quality": "common",
+      "type": "spray",
+      "hero": "all"
+    },
+    "season-4-hero": {
+      "name": null,
+      "description": "Unlocked by achieving top 500 ranking during Season 4",
+      "reward": "Season 4 Hero",
+      "quality": "common",
+      "type": "spray",
+      "hero": "all"
+    },
+    "season-5-competitor": {
+      "name": null,
+      "description": "Unlocked by completing Season 5 placement matches",
+      "reward": "Season 5 Competitor",
+      "quality": "common",
+      "type": "spray",
+      "hero": "all"
+    },
+    "season-5-hero": {
+      "name": null,
+      "description": "Unlocked by achieving top 500 ranking at the end of Season 5",
+      "reward": "Season 5 Hero",
+      "quality": "common",
+      "type": "spray",
+      "hero": "all"
+    },
+    "season-6-competitor": {
+      "name": null,
+      "description": "Unlocked by completing Season 6 placement matches",
+      "reward": "Season 6 Competitor",
+      "quality": "common",
+      "type": "spray",
+      "hero": "all"
+    },
+    "season-6-hero": {
+      "name": null,
+      "description": "Unlocked by achieving top 500 ranking at the end of Season 6",
+      "reward": "Season 6 Hero",
+      "quality": "common",
+      "type": "spray",
+      "hero": "all"
+    },
+    "season-7-competitor": {
+      "name": null,
+      "description": "Unlocked by completing Season 7 placement matches",
+      "reward": "Season 7 Competitor",
+      "quality": "common",
+      "type": "spray",
+      "hero": "all"
+    },
+    "season-7-hero": {
+      "name": null,
+      "description": "Unlocked by achieving top 500 ranking at the end of Season 7",
+      "reward": "Season 7 Hero",
+      "quality": "common",
+      "type": "spray",
+      "hero": "all"
+    },
+    "season-8-competitor": {
+      "name": null,
+      "description": "Unlocked by completing Season 8 placement matches",
+      "reward": "Season 8 Competitor",
+      "quality": "common",
+      "type": "spray",
+      "hero": "all"
+    },
+    "season-8-hero": {
+      "name": null,
+      "description": "Unlocked by achieving top 500 ranking at the end of Season 8",
+      "reward": "Season 8 Hero",
+      "quality": "common",
+      "type": "spray",
+      "hero": "all"
+    },
+    "season-9-competitor": {
+      "name": null,
+      "description": "Unlocked by completing Season 9 placement matches",
+      "reward": "Season 9 Competitor",
+      "quality": "common",
+      "type": "spray",
+      "hero": "all"
+    },
+    "season-9-hero": {
+      "name": null,
+      "description": "Unlocked by achieving top 500 ranking at the end of Season 9",
+      "reward": "Season 9 Hero",
+      "quality": "common",
+      "type": "spray",
+      "hero": "all"
+    },
+    "season-10-competitor": {
+      "name": null,
+      "description": "Unlocked by completing Season 10 placement matches",
+      "reward": "Season 10 Competitor",
+      "quality": "common",
+      "type": "spray",
+      "hero": "all"
+    },
+    "season-10-hero": {
+      "name": null,
+      "description": "Unlocked by achieving top 500 ranking at the end of Season 10",
+      "reward": "Season 10 Hero",
+      "quality": "common",
+      "type": "spray",
+      "hero": "all"
+    },
+    "season-11-competitor": {
+      "name": null,
+      "description": "Unlocked by completing Season 11 placement matches",
+      "reward": "Season 11 Competitor",
+      "quality": "common",
+      "type": "spray",
+      "hero": "all"
+    },
+    "season-11-hero": {
+      "name": null,
+      "description": "Unlocked by achieving top 500 ranking at the end of Season 11",
+      "reward": "Season 11 Hero",
+      "quality": "common",
+      "type": "spray",
+      "hero": "all"
+    },
+    "season-12-competitor": {
+      "name": null,
+      "description": "Unlocked by completing Season 12 placement matches",
+      "reward": "Season 12 Competitor",
+      "quality": "common",
+      "type": "spray",
+      "hero": "all"
+    },
+    "season-12-hero": {
+      "name": null,
+      "description": "Unlocked by achieving top 500 ranking at the end of Season 12",
+      "reward": "Season 12 Hero",
+      "quality": "common",
+      "type": "spray",
+      "hero": "all"
+    },
+    "season-13-competitor": {
+      "name": null,
+      "description": "Unlocked by completing Season 13 placement matches",
+      "reward": "Season 13 Competitor",
+      "quality": "common",
+      "type": "spray",
+      "hero": "all"
+    },
+    "season-13-hero": {
+      "name": null,
+      "description": "Unlocked by achieving top 500 ranking at the end of Season 13",
+      "reward": "Season 13 Hero",
+      "quality": "common",
+      "type": "spray",
+      "hero": "all"
+    },
+    "season-14-competitor": {
+      "name": null,
+      "description": "Unlocked by completing Season 14 placement matches",
+      "reward": "Season 14 Competitor",
+      "quality": "common",
+      "type": "spray",
+      "hero": "all"
+    },
+    "season-14-hero": {
+      "name": null,
+      "description": "Unlocked by achieving top 500 ranking at the end of Season 14",
+      "reward": "Season 14 Hero",
+      "quality": "common",
+      "type": "spray",
+      "hero": "all"
+    },
+    "season-15-competitor": {
+      "name": null,
+      "description": "Unlocked by completing Season 15 placement matches",
+      "reward": "Season 15 Competitor",
+      "quality": "common",
+      "type": "spray",
+      "hero": "all"
+    },
+    "season-15-hero": {
+      "name": null,
+      "description": "Unlocked by achieving top 500 ranking at the end of Season 15",
+      "reward": "Season 15 Hero",
+      "quality": "common",
+      "type": "spray",
+      "hero": "all"
+    },
+    "season-16-competitor": {
+      "name": null,
+      "description": "Unlocked by completing Season 16 placement matches",
+      "reward": "Season 16 Competitor",
+      "quality": "common",
+      "type": "spray",
+      "hero": "all"
+    },
+    "season-16-hero": {
+      "name": null,
+      "description": "Unlocked by achieving top 500 ranking at the end of Season 16",
+      "reward": "Season 16 Hero",
+      "quality": "common",
+      "type": "spray",
+      "hero": "all"
+    },
+    "season-17-competitor": {
+      "name": null,
+      "description": "Unlocked by completing Season 17 placement matches",
+      "reward": "Season 17 Competitor",
+      "quality": "common",
+      "type": "spray",
+      "hero": "all"
+    },
+    "season-17-hero": {
+      "name": null,
+      "description": "Unlocked by achieving top 500 ranking at the end of Season 17",
+      "reward": "Season 17 Hero",
+      "quality": "common",
+      "type": "spray",
+      "hero": "all"
+    },
+    "season-18-competitor": {
+      "name": null,
+      "description": "Unlocked by completing Season 18 placement matches",
+      "reward": "Season 18 Competitor",
+      "quality": "common",
+      "type": "spray",
+      "hero": "all"
+    },
+    "season-18-hero": {
+      "name": null,
+      "description": "Unlocked by achieving top 500 ranking at the end of Season 18",
+      "reward": "Season 18 Hero",
+      "quality": "common",
+      "type": "spray",
+      "hero": "all"
+    },
+    "season-19-competitor": {
+      "description": "Unlocked by completing Season 19 placement matches"
+    },
+    "season-19-hero": {
+      "description": "Unlocked by achieving top 500 ranking at the end of Season 19"
+    },
+    "season-20-competitor": {
+      "description": "Unlocked by completing Season 20 placement matches"
+    },
+    "season-20-hero": {
+      "description": "Unlocked by achieving top 500 ranking at the end of Season 20"
+    },
+    "season-21-competitor": {
+      "description": "Unlocked by completing Season 21 placement matches"
+    },
+    "season-21-hero": {
+      "description": "Unlocked by achieving top 500 ranking at the end of Season 21"
+    },
+    "season-22-competitor": {
+      "description": "Unlocked by completing Season 22 placement matches"
+    },
+    "season-22-hero": {
+      "description": "Unlocked by achieving top 500 ranking at the end of Season 22"
+    },
+    "season-23-competitor": {
+      "description": "Unlocked by completing Season 23 placement matches"
+    },
+    "season-23-hero": {
+      "description": "Unlocked by achieving top 500 ranking at the end of Season 23"
+    },
+    "season-24-competitor": {
+      "description": "Unlocked by completing Season 24 placement matches"
+    },
+    "season-24-hero": {
+      "description": "Unlocked by achieving top 500 ranking at the end of Season 24"
+    },
+    "season-25-competitor": {
+      "description": "Unlocked by completing Season 25 placement matches"
+    },
+    "season-25-hero": {
+      "description": "Unlocked by achieving top 500 ranking at the end of Season 25"
+    },
+    "season-26-competitor": {
+      "description": "Unlocked by completing Season 26 placement matches"
+    },
+    "season-26-hero": {
+      "description": "Unlocked by achieving top 500 ranking at the end of Season 26"
+    },
+    "season-27-competitor": {
+      "description": "Unlocked by completing Season 27 placement matches"
+    },
+    "season-27-hero": {
+      "description": "Unlocked by achieving top 500 ranking at the end of Season 27"
+    },
+    "season-28-competitor": {
+      "description": "Unlocked by completing Season 28 placement matches"
+    },
+    "season-28-hero": {
+      "description": "Unlocked by achieving top 500 ranking at the end of Season 28"
+    },
+    "competitive-ctf-competitor": {
+      "name": null,
+      "description": "Unlocked by completing competitive Capture The Flag 2018 placement matches",
+      "reward": "Competitive CTF Competitor",
+      "quality": "common",
+      "type": "spray",
+      "hero": "all"
+    },
+    "competitive-ctf-hero": {
+      "name": null,
+      "description": "Unlocked by achieving top 500 ranking at the end of competitive Capture The Flag 2018",
+      "reward": "Competitive CTF Hero",
+      "quality": "common",
+      "type": "spray",
+      "hero": "all"
+    },
+    "competitive-ctf-competitor-2019": {
+      "name": null,
+      "description": "Unlocked by completing competitive Capture The Flag 2019 placement matches",
+      "reward": "Competitive CTF Competitor 2019",
+      "quality": "common",
+      "type": "spray",
+      "hero": "all"
+    },
+    "competitive-ctf-hero-2019": {
+      "name": null,
+      "description": "Unlocked by achieving top 500 ranking at the end of competitive Capture The Flag 2019",
+      "reward": "Competitive CTF Hero 2019",
+      "quality": "common",
+      "type": "spray",
+      "hero": "all"
+    },
+    "competitive-ctf-competitor-2020": {
+      "description": "Unlocked by completing competitive Capture The Flag 2020 placement matches"
+    },
+    "competitive-ctf-hero-2020": {
+      "description": "Unlocked by achieving top 500 ranking at the end of competitive Capture The Flag 2020"
+    },
+    "competitive-deathmatch-competitor": {
+      "name": null,
+      "description": "Unlocked by completing Competitive Deathmatch 2018 placement matches",
+      "reward": "Competitive Deathmatch Competitor",
+      "quality": "common",
+      "type": "spray",
+      "hero": "all"
+    },
+    "competitive-deathmatch-hero": {
+      "name": null,
+      "description": "Unlocked by achieving top 500 ranking at the end of Competitive Deathmatch 2018",
+      "reward": "Competitive Deathmatch Hero",
+      "quality": "common",
+      "type": "spray",
+      "hero": "all"
+    },
+    "competitive-deathmatch-competitor-2019": {
+      "name": null,
+      "description": "Unlocked by completing Competitive Deathmatch 2019 placement matches",
+      "reward": "Competitive Deathmatch Competitor 2019",
+      "quality": "common",
+      "type": "spray",
+      "hero": "all"
+    },
+    "competitive-deathmatch-hero-2019": {
+      "name": null,
+      "description": "Unlocked by achieving top 500 ranking at the end of Competitive Deathmatch 2019",
+      "reward": "Competitive Deathmatch Hero 2019",
+      "quality": "common",
+      "type": "spray",
+      "hero": "all"
+    },
+    "competitive-deathmatch-competitor-2020": {
+      "description": "Unlocked by completing Competitive Deathmatch 2020 placement matches"
+    },
+    "competitive-deathmatch-hero-2020": {
+      "description": "Unlocked by achieving top 500 ranking at the end of Competitive Deathmatch 2020"
+    },
+    "competitive-6v6-elimination-hero": {
+      "name": null,
+      "description": "Unlocked by achieving top 500 ranking at the end of Competitive 6v6 Elimination 2018",
+      "reward": "Competitive 6v6 Elimination Hero",
+      "quality": "common",
+      "type": "spray",
+      "hero": "all"
+    },
+    "competitive-6v6-elimination-competitor": {
+      "name": null,
+      "description": "Unlocked by completing Competitive 6v6 Elimination 2018 placement matches",
+      "reward": "Competitive 6v6 Elimination Hero",
+      "quality": "common",
+      "type": "spray",
+      "hero": "all"
+    },
+    "competitive-6v6-elimination-hero-2019": {
+      "description": "Unlocked by achieving top 500 ranking at the end of Competitive 6v6 Elimination 2019"
+    },
+    "competitive-6v6-elimination-competitor-2019": {
+      "description": "Unlocked by completing Competitive 6v6 Elimination 2019 placement matches"
+    },
+    "competitive-6v6-elimination-hero-2020": {
+      "description": "Unlocked by achieving top 500 ranking at the end of Competitive 6v6 Elimination 2020"
+    },
+    "competitive-6v6-elimination-competitor-2020": {
+      "description": "Unlocked by completing Competitive 6v6 Elimination 2020 placement matches"
+    },
+    "competitive-3v3-group-elimination-hero": {
+      "name": null,
+      "description": "Unlocked by achieving top 500 ranking at the end of Competitive 3v3 Group Elimination",
+      "reward": "Competitive 3v3 Group Elimination Hero",
+      "quality": "common",
+      "type": "spray",
+      "hero": "all"
+    },
+    "competitive-3v3-group-elimination-competitor": {
+      "name": null,
+      "description": "Unlocked by completing Competitive 3v3 Group Elimination placement matches",
+      "reward": "Competitive 3v3 Group Elimination Competitor",
+      "quality": "common",
+      "type": "spray",
+      "hero": "all"
+    },
+    "competitive-3v3-elimination-hero": {
+      "name": null,
+      "description": "Unlocked by achieving top 500 ranking at the end of Competitive 3v3 Elimination 2018",
+      "reward": "Competitive 3v3 Elimination Hero",
+      "quality": "common",
+      "type": "spray",
+      "hero": "all"
+    },
+    "competitive-3v3-elimination-competitor": {
+      "name": null,
+      "description": "Unlocked by completing Competitive 3v3 Elimination 2018 placement matches",
+      "reward": "Competitive 3v3 Elimination Competitor",
+      "quality": "common",
+      "type": "spray",
+      "hero": "all"
+    },
+    "competitive-3v3-elimination-hero-2019": {
+      "name": null,
+      "description": "Unlocked by achieving top 500 ranking at the end of Competitive 3v3 Elimination 2019",
+      "reward": "Competitive 3v3 Elimination Hero 2019",
+      "quality": "common",
+      "type": "spray",
+      "hero": "all"
+    },
+    "competitive-3v3-elimination-competitor-2019": {
+      "name": null,
+      "description": "Unlocked by completing Competitive 3v3 Elimination 2019 placement matches",
+      "reward": "Competitive 3v3 Elimination Competitor 2019",
+      "quality": "common",
+      "type": "spray",
+      "hero": "all"
+    },
+    "competitive-team-deathmatch-hero": {
+      "name": null,
+      "description": "Unlocked by achieving top 500 ranking at the end of Competitive Team Deathmatch 2018",
+      "reward": "Competitive Team Deathmatch Hero",
+      "quality": "common",
+      "type": "spray",
+      "hero": "all"
+    },
+    "competitive-team-deathmatch-competitor": {
+      "name": null,
+      "description": "Unlocked by completing Competitive Team Deathmatch 2018 placement matches",
+      "reward": "Competitive Team Deathmatch Competitor",
+      "quality": "common",
+      "type": "spray",
+      "hero": "all"
+    },
+    "competitive-team-deathmatch-hero-2019": {
+      "description": "Unlocked by achieving top 500 ranking at the end of Competitive Team Deathmatch 2019"
+    },
+    "competitive-team-deathmatch-competitor-2019": {
+      "description": "Unlocked by completing Competitive Team Deathmatch 2019 placement matches"
+    },
+    "competitive-team-deathmatch-hero-2020": {
+      "description": "Unlocked by achieving top 500 ranking at the end of Competitive Team Deathmatch 2020"
+    },
+    "competitive-team-deathmatch-competitor-2020": {
+      "description": "Unlocked by completing Competitive Team Deathmatch 2020 placement matches"
+    },
+    "competitive-open-queue-hero": {
+      "description": "Unlocked by achieving top 500 ranking at the end of Competitive Open Queue Season 1"
+    },
+    "competitive-open-queue-competitor": {
+      "description": "Unlocked by completing Competitive Open Queue Season 1 placement matches"
+    },
+    "open-queue-season-2-hero": {
+      "description": "Unlocked by achieving top 500 ranking at the end of Competitive Open Queue Season 2"
+    },
+    "open-queue-season-2-competitor": {
+      "description": "Unlocked by completing Competitive Open Queue Season 2 placement matches"
+    },
+    "wizard": {
+      "name": null,
+      "description": "Unlocked as part of the Diablo 20th Anniversary celebration",
+      "reward": "Wizard",
+      "quality": "common",
+      "type": "spray",
+      "hero": "all"
+    },
+    "witch-doctor": {
+      "name": null,
+      "description": "Unlocked as part of the Diablo 20th Anniversary celebration",
+      "reward": "Witch Doctor",
+      "quality": "common",
+      "type": "spray",
+      "hero": "all"
+    },
+    "monk": {
+      "name": null,
+      "description": "Unlocked as part of the Diablo 20th Anniversary celebration",
+      "reward": "Monk",
+      "quality": "common",
+      "type": "spray",
+      "hero": "all"
+    },
+    "demon-hunter": {
+      "name": null,
+      "description": "Unlocked as part of the Diablo 20th Anniversary celebration",
+      "reward": "Demon Hunter",
+      "quality": "common",
+      "type": "spray",
+      "hero": "all"
+    },
+    "crusader": {
+      "name": null,
+      "description": "Unlocked as part of the Diablo 20th Anniversary celebration",
+      "reward": "Crusader",
+      "quality": "common",
+      "type": "spray",
+      "hero": "all"
+    },
+    "barbarian": {
+      "name": null,
+      "description": "Unlocked as part of the Diablo 20th Anniversary celebration",
+      "reward": "Barbarian",
+      "quality": "common",
+      "type": "spray",
+      "hero": "all"
+    },
+    "dark-wanderer": {
+      "name": null,
+      "description": "Unlocked as part of the Diablo 20th Anniversary celebration",
+      "reward": "Dark Wanderer",
+      "quality": "rare",
+      "type": "icon",
+      "hero": "all"
+    },
+    "summer-games-2016": {
+      "name": null,
+      "description": "Unlocked with Summer Games 2016",
+      "reward": "Summer Games 2016",
+      "quality": "common",
+      "type": "spray",
+      "hero": "all"
+    },
+    "copa-lucioball-competitor": {
+      "name": null,
+      "description": "Unlocked by completing Copa Lúcioball placement matches",
+      "reward": "Copa Lúcioball Competitor",
+      "quality": "common",
+      "type": "spray",
+      "hero": "all"
+    },
+    "copa-lucioball-hero": {
+      "name": null,
+      "description": "Unlocked by achieving top 500 ranking at the end of Copa Lúcioball",
+      "reward": "Copa Lúcioball Hero",
+      "quality": "common",
+      "type": "spray",
+      "hero": "all"
+    },
+    "copa-lucioball-competitor-2018": {
+      "name": null,
+      "description": "Unlocked by completing Copa Lúcioball 2018 placement matches",
+      "reward": "Copa Lúcioball Competitor 2018",
+      "quality": "common",
+      "type": "spray",
+      "hero": "all"
+    },
+    "copa-lucioball-hero-2018": {
+      "name": null,
+      "description": "Unlocked by achieving top 500 ranking at the end of Copa Lúcioball 2018",
+      "reward": "Copa Lúcioball Hero 2018",
+      "quality": "common",
+      "type": "spray",
+      "hero": "all"
+    },
+    "copa-lucioball-competitor-2019": {
+      "name": null,
+      "description": "Unlocked by completing Copa Lúcioball 2019 placement matches",
+      "reward": "Copa Lúcioball Competitor 2019",
+      "quality": "common",
+      "type": "spray",
+      "hero": "all"
+    },
+    "copa-lucioball-hero-2019": {
+      "name": null,
+      "description": "Unlocked by achieving top 500 ranking at the end of Copa Lúcioball 2019",
+      "reward": "Copa Lúcioball Hero 2019",
+      "quality": "common",
+      "type": "spray",
+      "hero": "all"
+    },
+    "copa-lucioball-competitor-2020": {
+      "description": "Unlocked by completing Copa Lúcioball 2020 placement matches"
+    },
+    "copa-lucioball-hero-2020": {
+      "description": "Unlocked by achieving top 500 ranking at the end of Copa Lúcioball 2020"
+    },
+    "survivor": {
+      "name": "Survivor",
+      "description": "Survive 4 bonus waves in Junkenstein Endless on Expert difficulty.",
+      "reward": "The Witch",
+      "quality": "common",
+      "type": "spray",
+      "hero": "all"
+    },
+    "dawn-breaks": {
+      "name": "Dawn Breaks",
+      "description": "Win Junkenstein's Revenge on Expert difficulty.",
+      "reward": "The Reaper",
+      "quality": "common",
+      "type": "spray",
+      "hero": "all"
+    },
+    "six-they-were": {
+      "name": "Six They Were",
+      "description": "Win Junkenstein Endless with 6 different heroes.",
+      "reward": "My Creations",
+      "quality": "common",
+      "type": "spray",
+      "hero": "all"
+    },
+    "unscathed": {
+      "name": "Unscathed",
+      "description": "Win Junkenstein Endless on Hard difficulty with no damage to the door.",
+      "reward": "The Monster",
+      "quality": "common",
+      "type": "spray",
+      "hero": "all"
+    },
+    "simple-trigonometry": {
+      "name": "Simple Trigonometry",
+      "reward": "Pixel",
+      "quality": "common",
+      "type": "spray",
+      "description": "Fully deplete both types of Moira's Biotic Orb without dying in Quick or Competitive Play.",
+      "hero": "moira"
+    },
+    "antipode": {
+      "name": "Antipode",
+      "reward": "Cute",
+      "quality": "common",
+      "type": "spray",
+      "description": "Hit 7 targets simultaneously with Moira's Coalescence in Quick or Competitive Play.",
+      "hero": "moira"
+    },
+    "thinking-with-your-stomach": {
+      "name": "Thinking With Your Stomach",
+      "reward": "Yeti",
+      "quality": "common",
+      "type": "spray",
+      "description": "Eat 4 meat as the Yeti in Yeti Hunter.",
+      "hero": "all"
+    },
+    "yeti-catcher": {
+      "name": "Antipode",
+      "reward": "Yeti Hunter",
+      "quality": "common",
+      "type": "spray",
+      "description": "Trap the Yeti as a Hunter in Yeti Hunter.",
+      "hero": "all"
+    },
+    "anduin": {
+      "name": null,
+      "description": "Unlocked with purchase of World of Warcraft: Battle for Azeroth Collector's Edition or Digital Deluxe Edition",
+      "reward": "Anduin",
+      "quality": "common",
+      "type": "spray",
+      "hero": "all"
+    },
+    "jaina": {
+      "name": null,
+      "description": "Unlocked with purchase of World of Warcraft: Battle for Azeroth Collector's Edition or Digital Deluxe Edition",
+      "reward": "Jaina",
+      "quality": "common",
+      "type": "spray",
+      "hero": "all"
+    },
+    "sylvanas": {
+      "name": null,
+      "description": "Unlocked with purchase of World of Warcraft: Battle for Azeroth Collector's Edition or Digital Deluxe Edition",
+      "reward": "Sylvanas",
+      "quality": "common",
+      "type": "spray",
+      "hero": "all"
+    },
+    "varok": {
+      "name": null,
+      "description": "Unlocked with purchase of World of Warcraft: Battle for Azeroth Collector's Edition or Digital Deluxe Edition",
+      "reward": "Varok",
+      "quality": "common",
+      "type": "spray",
+      "hero": "all"
+    },
+    "kul-tiras": {
+      "name": null,
+      "description": "Unlocked with purchase of World of Warcraft: Battle for Azeroth Collector's Edition or Digital Deluxe Edition",
+      "reward": "Kul Tiras",
+      "quality": "rare",
+      "type": "icon",
+      "hero": "all"
+    },
+    "zandalar": {
+      "name": null,
+      "description": "Unlocked with purchase of World of Warcraft: Battle for Azeroth Collector's Edition or Digital Deluxe Edition",
+      "reward": "Zandalar",
+      "quality": "rare",
+      "type": "icon",
+      "hero": "all"
+    },
+    "grounded": {
+      "name": "Grounded",
+      "description": "Kill an airborne enemy with Brigitte's Whip Shot in Quick or Competitive Play.",
+      "reward": "Cute",
+      "quality": "common",
+      "type": "spray",
+      "hero": "brigitte"
+    },
+    "excuse-me": {
+      "name": "Excuse Me",
+      "description": "Interrupt an enemy ultimate ability with Brigitte's Shield Bash in Quick or Competitive Play.",
+      "reward": "Pixel",
+      "type": "spray",
+      "hero": "brigitte"
+    },
+    "the-venice-incident": {
+      "name": "The Venice Incident",
+      "description": "Complete Retribution with each of the 4 heroes.",
+      "reward": "Talon Trooper",
+      "quality": "common",
+      "type": "spray",
+      "hero": null
+    },
+    "redacted": {
+      "name": "Redacted",
+      "description": "Complete Retribution (All Heroes) with 8 different heroes.",
+      "reward": "Talon Enforcer",
+      "quality": "common",
+      "type": "spray",
+      "hero": null
+    },
+    "into-the-shadows": {
+      "name": "Into the Shadows",
+      "description": "Complete Retribution on Hard difficulty.",
+      "reward": "Talon Sniper",
+      "quality": "common",
+      "type": "spray",
+      "hero": null
+    },
+    "a-quiet-night": {
+      "name": "A Quiet Night",
+      "description": "Complete Retribution on Expert difficulty.",
+      "reward": "Droppachi",
+      "quality": "common",
+      "type": "spray",
+      "hero": null
+    },
+    "plausible-deniability": {
+      "name": "Plausible Deniability",
+      "description": "Complete Retribution on Legendary difficulty.",
+      "reward": "Talon Heavy Assault",
+      "quality": "common",
+      "type": "spray",
+      "hero": null
+    },
+    "clean-getaway": {
+      "name": "Clean Getaway",
+      "description": "Complete Retribution on Expert difficulty with no incapacitations.",
+      "reward": "Talon Assassin",
+      "quality": "common",
+      "type": "spray",
+      "hero": null
+    },
+    "inaugural-season": {
+      "description": "Unlocked by purchasing the Overwatch League Twitch All-Access Pass"
+    },
+    "1-fan": {
+      "description": "Unlocked by participating in the 2018 OWL Grand Finals event"
+    },
+    "living-room": {
+      "description": "Unlocked by participating in the 2018 OWL Grand Finals event"
+    },
+    "matchs-on": {
+      "description": "Unlocked by participating in the 2018 OWL Grand Finals event"
+    },
+    "watchparty-gibraltar": {
+      "description": "Unlocked by participating in the 2018 OWL Grand Finals event"
+    },
+    "pacific-allstars-2018": {
+      "description": "Unlocked with purchase of Pacific All-Stars 2018 skin"
+    },
+    "atlantic-allstars-2018": {
+      "description": "Unlocked with purchase of Atlantic All-Stars 2018 skin"
+    },
+    "adaptation": {
+      "name": "Adaptation",
+      "reward": "Pixel",
+      "quality": "common",
+      "type": "spray",
+      "description": "Absorb 1500 damage with Wrecking Ball's Adaptive Shield without dying in Quick or Competitive Play.",
+      "hero": "wrecking-ball"
+    },
+    "strike": {
+      "name": "Strike",
+      "reward": "Cute",
+      "quality": "common",
+      "type": "spray",
+      "description": "Roll through 4 enemies within 2 seconds as Wrecking Ball in Quick or Competitive Play.",
+      "hero": "wrecking-ball"
+    },
+    "short-fuse": {
+      "name": "Short Fuse",
+      "reward": "Pixel",
+      "quality": "common",
+      "type": "spray",
+      "description": "Kill an enemy by shooting Ashe’s Dynamite from at least 30 meters away in Quick or Competitive Play.",
+      "hero": "ashe"
+    },
+    "served-up": {
+      "name": "Served Up",
+      "reward": "Cute",
+      "quality": "common",
+      "type": "spray",
+      "description": "Get a killing blow as Ashe on an enemy knocked into the air by B.O.B. in Quick or Competitive Play.",
+      "hero": "ashe"
+    },
+    "six-wanderers": {
+      "name": "Six Wanderers",
+      "reward": "Zomnic",
+      "quality": "common",
+      "type": "spray",
+      "description": "Win Junkenstein's Revenge with 6 different heroes.",
+      "hero": null
+    },
+    "hardened-defenders": {
+      "name": "Hardened Defenders",
+      "reward": "Zombardier",
+      "quality": "common",
+      "type": "spray",
+      "description": "Survive 4 bonus waves in Junkenstein Endless on Hard difficulty.",
+      "hero": null
+    },
+    "dawn-patrol": {
+      "name": "Dawn Patrol",
+      "reward": "Flaming Pumpkin",
+      "quality": "common",
+      "type": "spray",
+      "description": "Survive 12 bonus waves in Junkenstein Endless.",
+      "hero": null
+    },
+    "rampage": {
+      "name": "Rampage",
+      "reward": "Yeti Rage",
+      "quality": "common",
+      "type": "spray",
+      "description": "Kill 3 enemies as the Yeti in Yeti Hunt.",
+      "hero": null
+    },
+    "hot-hand": {
+      "name": "Hot Hand",
+      "reward": "Frozen Throne",
+      "quality": "common",
+      "type": "spray",
+      "description": "Win a round as the sole survivor in Mei's Snowball Offensive.",
+      "hero": null
+    },
+    "a-couple-of-flakes": {
+      "name": "A Couple Of Flakes",
+      "reward": "Bonk",
+      "quality": "common",
+      "type": "spray",
+      "description": "Kill 2 enemies with a single use of Mei's Flurry in Mei's Snowball Offensive.",
+      "hero": null
+    },
+    "bastet": {
+      "description": "Unlocked by participating in Ana's Bastet Challenge"
+    },
+    "captured": {
+      "name": "Captured",
+      "reward": "Captured Flag",
+      "quality": "common",
+      "type": "spray",
+      "description": "Capture a flag in a game of Capture the Flag.",
+      "hero": null
+    },
+    "delivery-interruption": {
+      "name": "Delivery Interruption",
+      "reward": "Interrupted Delivery",
+      "quality": "common",
+      "type": "spray",
+      "description": "Kill an enemy as they carry the flag in a game of Capture the Flag.",
+      "hero": null
+    },
+    "window-of-opportunity": {
+      "name": "Window of Opportunity",
+      "reward": "Cute",
+      "quality": "common",
+      "type": "spray",
+      "description": "Amplify 2500 combined damage and healing without dying as Baptiste in Quick or Competitive play."
+    },
+    "stand-by-me": {
+      "name": "Stand By Me",
+      "reward": "Pixel",
+      "quality": "common",
+      "type": "spray",
+      "description": "Prevent 4 deaths with a single use of Baptiste's Immortality Field in Quick or Competitive play."
+    },
+    "storm-warning": {
+      "name": "Storm Warning",
+      "reward": "Light the Way",
+      "quality": "common",
+      "type": "spray",
+      "description": "Complete Storm Rising (Story) with each of the 4 heroes."
+    },
+    "maelstrom": {
+      "name": "Maelstrom",
+      "reward": "Hot Pursuit",
+      "quality": "common",
+      "type": "spray",
+      "description": "Complete Storm Rising (Story) on Expert difficulty."
+    },
+    "tempest": {
+      "name": "Tempest",
+      "reward": "Ambush",
+      "quality": "common",
+      "type": "spray",
+      "description": "Complete Storm Rising (Story) on Hard difficulty."
+    },
+    "hurricane": {
+      "name": "Hurricane",
+      "reward": "Cut the Brakes",
+      "quality": "common",
+      "type": "spray",
+      "description": "Complete Storm Rising (Story) on Legendary difficulty."
+    },
+    "freelancers": {
+      "name": "Freelancers",
+      "reward": "Almendrón",
+      "quality": "common",
+      "type": "spray",
+      "description": "Complete Storm Rising (All Heroes) with 8 different heroes."
+    },
+    "storm-rider": {
+      "name": "Storm Rider",
+      "reward": "The Broker",
+      "quality": "common",
+      "type": "spray",
+      "description": "Complete Storm Rising (All Heroes) on Expert difficulty."
+    },
+    "storm-chaser": {
+      "name": "Storm Chaser",
+      "reward": "Big Plans",
+      "quality": "common",
+      "type": "spray",
+      "description": "Complete Storm Rising (All Heroes) on Hard difficulty."
+    },
+    "eye-of-the-hurricane": {
+      "name": "Eye of the Hurricane",
+      "reward": "New Strike Team",
+      "quality": "common",
+      "type": "spray",
+      "description": "Complete Storm Rising (All Heroes) on Legendary difficulty with no incapacitations."
+    },
+    "event-horizon": {
+      "description": "Get 3 killing blows during a single use of Sigma's Gravitic Flux in Quick or Competitive Play."
+    },
+    "conservation-of-energy": {
+      "description": "Gain 350 shields with a single use of Sigma's Kinetic Grasp in Quick or Competitive Play."
+    },
+    "adaptability": {
+      "description": "Use 2 other heroes’ ultimates without dying as Echo in Quick or Competitive Play."
+    },
+    "focused": {
+      "description": " Earn 2 killing blows with a single use of Echo’s Focusing Beam in Quick or Competitive Play."
+    },
+    "summer-games-2019-1": {
+      "description": "Unlocked by participating in the Summer Games 2019 week 1 challenge"
+    },
+    "summer-games-2019-2": {
+      "description": "Unlocked by participating in the Summer Games 2019 week 2 challenge"
+    },
+    "summer-games-2019-3": {
+      "description": "Unlocked by participating in the Summer Games 2019 week 3 challenge"
+    },
+    "summer-games-2020-1": {
+      "description": "Unlocked by participating in the Summer Games 2020 week 1 challenge"
+    },
+    "summer-games-2020-2": {
+      "description": "Unlocked by participating in the Summer Games 2020 week 2 challenge"
+    },
+    "summer-games-2020-3": {
+      "description": "Unlocked by participating in the Summer Games 2020 week 3 challenge"
+    },
+    "warcraft-3-promo": {
+      "description": "Unlocked with purchase of Warcraft III: Reforged Spoils of War Edition"
+    },
+    "owl-2019": {
+      "description": "Unlocked by participating in the 2019 OWL Grand Finals event"
+    },
+    "caught-you": {
+      "description": "Kill an enemy with a caught snowball in Snowball Deathmatch."
+    },
+    "threepeat": {
+      "description": "Kill 3 enemies without reloading or dying in Snowball Deathmatch."
+    },
+    "breached": {
+      "description": "Kill an enemy after destroying part of their Ice Wall in Snowball Deathmatch."
+    },
+    "molten-cores": {
+      "description": "Complete the Molten Cores Archives challenge mission."
+    },
+    "glass-cannon": {
+      "description": "Complete the Glass Cannon Archives challenge mission."
+    },
+    "surgical-strike": {
+      "description": "Complete the Surgical Strike Archives challenge mission."
+    },
+    "close-quarters": {
+      "description": "Complete the Close Quarters Archives challenge mission."
+    },
+    "blood-moon-rising": {
+      "description": "Complete the Blood Moon Rising Archives challenge mission."
+    },
+    "storm-raging": {
+      "description": "Complete the Storm Raging Archives challenge mission."
+    },
+    "quick-brace": {
+      "description": "Score 2 goals within 5 seconds in a game of Lúcioball Remix."
+    },
+    "frenzied-defense": {
+      "description": "Earn 15 saves in a game of Lúcioball Remix."
+    },
+    "shocking-surprise": {
+      "description": "Complete the Shocking Surprise Junkenstein challenge mission."
+    },
+    "mystery-swap": {
+      "description": "Complete the Mystery Swap Junkenstein challenge mission."
+    },
+    "volatile-zomnics": {
+      "description": "Complete the Volatile Zomnics Junkenstein challenge mission."
+    },
+    "three-they-were": {
+      "description": "Complete the Three They Were Junkenstein challenge mission."
+    },
+    "frenzied-stampede": {
+      "description": "Complete the Frenzied Stampede Junkenstein challenge mission."
+    },
+    "vengeful-ghost": {
+      "description": "Complete the Vengeful Ghost Junkenstein challenge mission."
+    }
+  },
+  "mappings": {
+    "reaper-cute": "die-die-die-die",
+    "victory": "centenary",
+    "forge-onward": "level-10",
+    "rise": "level-25",
+    "respect": "level-50",
+    "genji-cute": "slice-and-dice",
+    "tea-time": "undying",
+    "sorry": "the-path-is-closed",
+    "piata": "survival-expert",
+    "well-played": "decorated",
+    "thanks": "blackjack",
+    "oops": "decked-out",
+    "genji-pixel": "their-own-worst-enemy",
+    "reaper-pixel": "waste-not-want-not",
+    "mccree-pixel": "whoa-there",
+    "mccree-cute": "its-high-noon",
+    "pharah-cute": "death-from-above",
+    "pharah-pixel": "clearing-the-area",
+    "soldier-76-pixel": "rocket-man",
+    "soldier-76-cute": "target-rich-environment",
+    "tracer-pixel": "total-recall",
+    "tracer-cute": "special-delivery",
+    "bastion-pixel": "triple-threat",
+    "bastion-cute": "charge",
+    "hanzo-pixel": "simple-geometry",
+    "hanzo-cute": "the-dragon-is-sated",
+    "junkrat-pixel": "mine-like-a-steel-trap",
+    "junkrat-cute": "roadkill",
+    "mei-pixel": "ice-blocked",
+    "mei-cute": "cold-snap",
+    "torbjorn-cute": "raid-wipe",
+    "torbjorn-pixel": "armor-up",
+    "widowmaker-pixel": "did-that-sting",
+    "widowmaker-cute": "smooth-as-silk",
+    "dva-pixel": "shot-down",
+    "dva-cute": "game-over",
+    "reinhardt-pixel": "i-am-your-shield",
+    "reinhardt-cute": "storm-earth-and-fire",
+    "roadhog-pixel": "giving-you-the-hook",
+    "roadhog-cute": "hog-wild",
+    "winston-pixel": "mine-sweeper",
+    "winston-cute": "anger-management",
+    "zarya-pixel": "power-overwhelming",
+    "zarya-cute": "the-power-of-attraction",
+    "lucio-pixel": "the-floor-is-lava",
+    "lucio-cute": "supersonic",
+    "mercy-pixel": "group-health-plan",
+    "mercy-cute": "huge-rez",
+    "symmetra-pixel": "the-car-wash",
+    "symmetra-cute": "huge-success",
+    "zenyatta-pixel": "rapid-discord",
+    "zenyatta-cute": "the-iris-embraces-you",
+    "wrecking-ball-pixel": "adaptation",
+    "wrecking-ball-cute": "strike",
+    "ashe-pixel": "short-fuse",
+    "ashe-cute": "served-up",
+    "sigma-pixel": "conservation-of-energy",
+    "sigma-cute": "event-horizon",
+    "echo-pixel": "focused",
+    "echo-cute": "adaptability",
+    "baptiste-pixel": "stand-by-me",
+    "baptiste-cute": "window-of-opportunity",
+    "jail": "lockdown",
+    "beyond-the-moon": "double-cap",
+    "out-of-my-way": "escort-duty",
+    "red-x": "cant-touch-this",
+    "red-o": "shutout",
+    "gl-hf": "world-traveler",
+    "man-and-omnic": "the-friend-zone",
+    "ana-pixel": "naptime",
+    "ana-cute": "enabler",
+    "junkensteins-revenge": "survived-the-night",
+    "the-reapening": "not-a-scratch",
+    "rise-of-the-zomnics": "four-they-were",
+    "halloween-special": "held-the-door",
+    "sombra-pixel": "hack-the-planet",
+    "sombra-cute": "power-outage",
+    "snowmei": "snowed-in",
+    "snowreaper": "cool-as-ice",
+    "snowcree": "whap",
+    "snowhog": "ambush",
+    "awakened-lion": "flagbearer",
+    "auspicious-lion": "cleanup-duty",
+    "orisa-pixel": "halt-state",
+    "orisa-cute": "overclocked",
+    "eradicator": "mission-complete",
+    "b73ns": "unit-commendation",
+    "or14ns": "distinguished-service",
+    "slicer": "handle-with-care",
+    "nulltrooper": "strike-team",
+    "nullmari": "replacements",
+    "doomfist-pixel": "air-strike",
+    "doomfist-cute": "cratered",
+    "bicycle-kick": "volley",
+    "safe-hands": "safe-hands",
+    "goal-blossom": "lucio-hat-trick",
+    "top-500": "top-500",
+    "season-1-competitor": "season-1-competitor",
+    "season-1-hero": "season-1-hero",
+    "season-2-competitor": "season-2-competitor",
+    "season-2-hero": "season-2-hero",
+    "season-3-competitor": "season-3-competitor",
+    "season-3-hero": "season-3-hero",
+    "season-4-competitor": "season-4-competitor",
+    "season-4-hero": "season-4-hero",
+    "season-5-competitor": "season-5-competitor",
+    "season-5-hero": "season-5-hero",
+    "season-6-competitor": "season-6-competitor",
+    "season-6-hero": "season-6-hero",
+    "season-7-competitor": "season-7-competitor",
+    "season-7-hero": "season-7-hero",
+    "season-8-competitor": "season-8-competitor",
+    "season-8-hero": "season-8-hero",
+    "season-9-competitor": "season-9-competitor",
+    "season-9-hero": "season-9-hero",
+    "season-10-competitor": "season-10-competitor",
+    "season-10-hero": "season-10-hero",
+    "season-11-competitor": "season-11-competitor",
+    "season-11-hero": "season-11-hero",
+    "season-12-competitor": "season-12-competitor",
+    "season-12-hero": "season-12-hero",
+    "season-13-competitor": "season-13-competitor",
+    "season-13-hero": "season-13-hero",
+    "season-14-competitor": "season-14-competitor",
+    "season-14-hero": "season-14-hero",
+    "season-15-competitor": "season-15-competitor",
+    "season-15-hero": "season-15-hero",
+    "season-16-competitor": "season-16-competitor",
+    "season-16-hero": "season-16-hero",
+    "season-17-competitor": "season-17-competitor",
+    "season-17-hero": "season-17-hero",
+    "season-18-competitor": "season-18-competitor",
+    "season-18-hero": "season-18-hero",
+    "season-19-competitor": "season-19-competitor",
+    "season-19-hero": "season-19-hero",
+    "season-20-competitor": "season-20-competitor",
+    "season-20-hero": "season-20-hero",
+    "season-21-competitor": "season-21-competitor",
+    "season-21-hero": "season-21-hero",
+    "season-22-competitor": "season-22-competitor",
+    "season-22-hero": "season-22-hero",
+    "season-23-competitor": "season-23-competitor",
+    "season-23-hero": "season-23-hero",
+    "season-24-competitor": "season-24-competitor",
+    "season-24-hero": "season-24-hero",
+    "season-25-competitor": "season-25-competitor",
+    "season-25-hero": "season-25-hero",
+    "season-26-competitor": "season-26-competitor",
+    "season-26-hero": "season-26-hero",
+    "season-27-competitor": "season-27-competitor",
+    "season-27-hero": "season-27-hero",
+    "season-28-competitor": "season-28-competitor",
+    "season-28-hero": "season-28-hero",
+    "competitive-ctf-competitor": "competitive-ctf-competitor",
+    "competitive-ctf-hero": "competitive-ctf-hero",
+    "competitive-ctf-competitor-2019": "competitive-ctf-competitor-2019",
+    "competitive-ctf-hero-2019": "competitive-ctf-hero-2019",
+    "competitive-ctf-competitor-2020": "competitive-ctf-competitor-2020",
+    "competitive-ctf-hero-2020": "competitive-ctf-hero-2020",
+    "competitive-deathmatch-competitor": "competitive-deathmatch-competitor",
+    "competitive-deathmatch-hero": "competitive-deathmatch-hero",
+    "competitive-deathmatch-competitor-2019": "competitive-deathmatch-competitor-2019",
+    "competitive-deathmatch-hero-2019": "competitive-deathmatch-hero-2019",
+    "competitive-deathmatch-competitor-2020": "competitive-deathmatch-competitor-2020",
+    "competitive-deathmatch-hero-2020": "competitive-deathmatch-hero-2020",
+    "competitive-6v6-elimination-competitor": "competitive-6v6-elimination-competitor",
+    "competitive-6v6-elimination-hero": "competitive-6v6-elimination-hero",
+    "competitive-6v6-elimination-competitor-2019": "competitive-6v6-elimination-competitor-2019",
+    "competitive-6v6-elimination-hero-2019": "competitive-6v6-elimination-hero-2019",
+    "competitive-6v6-elimination-competitor-2020": "competitive-6v6-elimination-competitor-2020",
+    "competitive-6v6-elimination-hero-2020": "competitive-6v6-elimination-hero-2020",
+    "competitive-3v3-group-elimination-competitor": "competitive-3v3-group-elimination-competitor",
+    "competitive-3v3-group-elimination-hero": "competitive-3v3-group-elimination-hero",
+    "competitive-team-deathmatch-competitor": "competitive-team-deathmatch-competitor",
+    "competitive-team-deathmatch-hero": "competitive-team-deathmatch-hero",
+    "competitive-team-deathmatch-competitor-2019": "competitive-team-deathmatch-competitor-2019",
+    "competitive-team-deathmatch-hero-2019": "competitive-team-deathmatch-hero-2019",
+    "competitive-team-deathmatch-competitor-2020": "competitive-team-deathmatch-competitor-2020",
+    "competitive-team-deathmatch-hero-2020": "competitive-team-deathmatch-hero-2020",
+    "competitive-3v3-elimination-competitor": "competitive-3v3-elimination-competitor",
+    "competitive-3v3-elimination-hero": "competitive-3v3-elimination-hero",
+    "competitive-3v3-elimination-competitor-2019": "competitive-3v3-elimination-competitor-2019",
+    "competitive-3v3-elimination-hero-2019": "competitive-3v3-elimination-hero-2019",
+    "competitive-open-queue-competitor": "competitive-open-queue-competitor",
+    "competitive-open-queue-hero": "competitive-open-queue-hero",
+    "open-queue-season-2-competitor": "open-queue-season-2-competitor",
+    "open-queue-season-2-hero": "open-queue-season-2-hero",
+    "wizard": "wizard",
+    "witch-doctor": "witch-doctor",
+    "monk": "monk",
+    "demon-hunter": "demon-hunter",
+    "crusader": "crusader",
+    "barbarian": "barbarian",
+    "dark-wanderer": "dark-wanderer",
+    "summer-games-2016": "summer-games-2016",
+    "copa-lucioball-competitor": "copa-lucioball-competitor",
+    "copa-lucioball-hero": "copa-lucioball-hero",
+    "copa-lucioball-competitor-2018": "copa-lucioball-competitor-2018",
+    "copa-lucioball-hero-2018": "copa-lucioball-hero-2018",
+    "copa-lucioball-competitor-2019": "copa-lucioball-competitor-2019",
+    "copa-lucioball-hero-2019": "copa-lucioball-hero-2019",
+    "copa-lucioball-competitor-2020": "copa-lucioball-competitor-2020",
+    "copa-lucioball-hero-2020": "copa-lucioball-hero-2020",
+    "the-witch": "survivor",
+    "the-reaper": "dawn-breaks",
+    "my-creations": "six-they-were",
+    "the-monster": "unscathed",
+    "moira-pixel": "simple-trigonometry",
+    "moira-cute": "antipode",
+    "yeti": "thinking-with-your-stomach",
+    "yeti-hunter": "yeti-catcher",
+    "anduin": "anduin",
+    "jaina": "jaina",
+    "sylvanas": "sylvanas",
+    "varok": "varok",
+    "kul-tiras": "kul-tiras",
+    "zandalar": "zandalar",
+    "brigitte-pixel": "excuse-me",
+    "brigitte-cute": "grounded",
+    "talon-assassin": "clean-getaway",
+    "talon-heavy-assault": "plausible-deniability",
+    "droppachi": "a-quiet-night",
+    "talon-sniper": "into-the-shadows",
+    "talon-enforcer": "redacted",
+    "talon-trooper": "the-venice-incident",
+    "inaugural-season": "inaugural-season",
+    "1-fan": "1-fan",
+    "living-room": "living-room",
+    "matchs-on": "matchs-on",
+    "watchpoint-gibraltar": "watchparty-gibraltar",
+    "zomnic": "six-wanderers",
+    "zombardier": "hardened-defenders",
+    "flaming-pumpkin": "dawn-patrol",
+    "bonk": "a-couple-of-flakes",
+    "frozen-throne": "hot-hand",
+    "yeti-rage": "rampage",
+    "captured-flag": "captured",
+    "interrupted-delivery": "delivery-interruption",
+    "bastet": "bastet",
+    "light-the-way": "storm-warning",
+    "hot-pursuit": "maelstrom",
+    "ambush": "tempest",
+    "cut-the-brakes": "hurricane",
+    "almendron": "freelancers",
+    "the-broker": "storm-rider",
+    "big-plans": "storm-chaser",
+    "new-strike-team": "eye-of-the-hurricane",
+    "cute": "window-of-opportunity",
+    "pixel": "stand-by-me",
+    "punchimari": "summer-games-2019-1",
+    "tennismari": "summer-games-2019-2",
+    "footballmari": "summer-games-2019-3",
+    "shark-attack": "summer-games-2019-1",
+    "snorkling": "summer-games-2019-2",
+    "sand-castle": "summer-games-2019-3",
+    "baseballmari": "summer-games-2020-1",
+    "golfimari": "summer-games-2020-2",
+    "surfimari": "summer-games-2020-3",
+    "arthas": "warcraft-3-promo",
+    "thrall": "warcraft-3-promo",
+    "tyrande": "warcraft-3-promo",
+    "kelthuzad": "warcraft-3-promo",
+    "footman": "warcraft-3-promo",
+    "ghoul": "warcraft-3-promo",
+    "grunt": "warcraft-3-promo",
+    "archer": "warcraft-3-promo",
+    "lich-king-1": "warcraft-3-promo",
+    "watching-ball": "owl-2019",
+    "tailgate": "owl-2019",
+    "grand-finals-2019": "owl-2019",
+    "jotunn": "breached",
+    "mountain-man": "threepeat",
+    "ice-spheres": "caught-you",
+    "aggressive": "glass-cannon",
+    "blood-moon-rising": "blood-moon-rising",
+    "carry": "storm-raging",
+    "deadeye-strike": "surgical-strike",
+    "detonated": "molten-cores",
+    "feeling-invincible": "close-quarters",
+    "header": "quick-brace",
+    "goalkeeper": "frenzied-defense",
+    "viking-fury": "shocking-surprise",
+    "quickdraw": "mystery-swap",
+    "zombarded": "volatile-zomnics",
+    "uncanny-speed": "three-they-were",
+    "frenzied-stampede": "frenzied-stampede",
+    "red-riding-hunt": "vengeful-ghost"
+  }
+}

@@ -1,0 +1,2514 @@
+{
+  "icons": [
+    {
+      "name": "...Never Die",
+      "id": "never-die"
+    },
+    {
+      "name": "16-Bit Hero",
+      "id": "16bit-hero"
+    },
+    {
+      "name": "2017",
+      "id": "2017"
+    },
+    {
+      "name": "2018",
+      "id": "2018"
+    },
+    {
+      "name": "2018 Atlantic All-Stars",
+      "id": "2018-atlantic-allstars"
+    },
+    {
+      "name": "2018 Pacific All-Stars",
+      "id": "2018-pacific-allstars"
+    },
+    {
+      "name": "2019",
+      "id": "2019"
+    },
+    {
+      "name": "2019 Atlantic All-Stars",
+      "id": "2019-atlantic-allstars"
+    },
+    {
+      "name": "2019 Pacific All-Stars",
+      "id": "2019-pacific-allstars"
+    },
+    {
+      "name": "2020",
+      "id": "2020"
+    },
+    {
+      "name": "2020 Atlantic All-Stars",
+      "id": "2020-atlantic-allstars"
+    },
+    {
+      "name": "2020 Pacific All-Stars",
+      "id": "2020-pacific-allstars"
+    },
+    {
+      "name": "Anniversary 2017",
+      "id": "anniversary-2017"
+    },
+    {
+      "name": "Anniversary 2018",
+      "id": "anniversary-2018"
+    },
+    {
+      "name": "Anniversary 2019",
+      "id": "anniversary-2019"
+    },
+    {
+      "name": "Anniversary 2020",
+      "id": "anniversary-2020"
+    },
+    {
+      "name": "Anubis",
+      "id": "anubis"
+    },
+    {
+      "name": "Archives 2018",
+      "id": "archives-2018"
+    },
+    {
+      "name": "Archives 2019",
+      "id": "archives-2019"
+    },
+    {
+      "name": "Archives 2020",
+      "id": "archives-2020"
+    },
+    {
+      "name": "Argentina",
+      "id": "argentina"
+    },
+    {
+      "name": "Arthas",
+      "id": "arthas"
+    },
+    {
+      "name": "Assassin",
+      "id": "assassin"
+    },
+    {
+      "name": "Atlanta Reign",
+      "id": "atlanta-reign"
+    },
+    {
+      "name": "Australia",
+      "id": "australia"
+    },
+    {
+      "name": "Austria",
+      "id": "austria"
+    },
+    {
+      "name": "B73-NS",
+      "id": "b73ns"
+    },
+    {
+      "name": "Baihu",
+      "id": "baihu"
+    },
+    {
+      "name": "Bao",
+      "id": "bao"
+    },
+    {
+      "name": "Barbarian",
+      "id": "barbarian"
+    },
+    {
+      "name": "Baseballmari",
+      "id": "baseballmari"
+    },
+    {
+      "name": "Belgium",
+      "id": "belgium"
+    },
+    {
+      "name": "Bells",
+      "id": "bells"
+    },
+    {
+      "name": "Bewitching",
+      "id": "bewitching"
+    },
+    {
+      "name": "Bokimari",
+      "id": "bokimari"
+    },
+    {
+      "name": "Boston Uprising",
+      "id": "boston-uprising"
+    },
+    {
+      "name": "Brazil",
+      "id": "brazil"
+    },
+    {
+      "name": "Bubbly",
+      "id": "bubbly"
+    },
+    {
+      "name": "Calavera",
+      "id": "calavera"
+    },
+    {
+      "name": "Canada",
+      "id": "canada"
+    },
+    {
+      "name": "Candle",
+      "id": "candle"
+    },
+    {
+      "name": "Candy Cane",
+      "id": "candy-cane"
+    },
+    {
+      "name": "Capsule",
+      "id": "capsule"
+    },
+    {
+      "name": "Cheers!",
+      "id": "cheers"
+    },
+    {
+      "name": "Chengdu Hunters",
+      "id": "chengdu-hunters"
+    },
+    {
+      "name": "China",
+      "id": "china"
+    },
+    {
+      "name": "Clownmari",
+      "id": "clownmari"
+    },
+    {
+      "name": "Coin",
+      "id": "coin"
+    },
+    {
+      "name": "Colossus",
+      "id": "colossus"
+    },
+    {
+      "name": "Competitive 3v3 Elimination Competitor 2018",
+      "id": "competitive-3v3-elimination-competitor-2018"
+    },
+    {
+      "name": "Competitive 3v3 Elimination Competitor 2019",
+      "id": "competitive-3v3-elimination-competitor-2019"
+    },
+    {
+      "name": "Competitive 3v3 Elimination Competitor 2020",
+      "id": "competitive-3v3-elimination-competitor-2020"
+    },
+    {
+      "name": "Competitive 3v3 Elimination Hero 2018",
+      "id": "competitive-3v3-elimination-hero-2018"
+    },
+    {
+      "name": "Competitive 3v3 Elimination Hero 2019",
+      "id": "competitive-3v3-elimination-hero-2019"
+    },
+    {
+      "name": "Competitive 3v3 Elimination Hero 2020",
+      "id": "competitive-3v3-elimination-hero-2020"
+    },
+    {
+      "name": "Competitive 6v6 Elimination Competitor 2018",
+      "id": "competitive-6v6-elimination-competitor-2018"
+    },
+    {
+      "name": "Competitive 6v6 Elimination Competitor 2019",
+      "id": "competitive-6v6-elimination-competitor-2019"
+    },
+    {
+      "name": "Competitive 6v6 Elimination Competitor 2020",
+      "id": "competitive-6v6-elimination-competitor-2020"
+    },
+    {
+      "name": "Competitive 6v6 Elimination Hero 2018",
+      "id": "competitive-6v6-elimination-hero-2018"
+    },
+    {
+      "name": "Competitive 6v6 Elimination Hero 2019",
+      "id": "competitive-6v6-elimination-hero-2019"
+    },
+    {
+      "name": "Competitive 6v6 Elimination Hero 2020",
+      "id": "competitive-6v6-elimination-hero-2020"
+    },
+    {
+      "name": "Competitive CTF Competitor 2018",
+      "id": "competitive-ctf-competitor-2018"
+    },
+    {
+      "name": "Competitive CTF Competitor 2019",
+      "id": "competitive-ctf-competitor-2019"
+    },
+    {
+      "name": "Competitive CTF Competitor 2020",
+      "id": "competitive-ctf-competitor-2020"
+    },
+    {
+      "name": "Competitive CTF Hero 2018",
+      "id": "competitive-ctf-hero-2018"
+    },
+    {
+      "name": "Competitive CTF Hero 2019",
+      "id": "competitive-ctf-hero-2019"
+    },
+    {
+      "name": "Competitive CTF Hero 2020",
+      "id": "competitive-ctf-hero-2020"
+    },
+    {
+      "name": "Competitive Deathmatch Competitor 2018",
+      "id": "competitive-deathmatch-competitor-2018"
+    },
+    {
+      "name": "Competitive Deathmatch Competitor 2019",
+      "id": "competitive-deathmatch-competitor-2019"
+    },
+    {
+      "name": "Competitive Deathmatch Competitor 2020",
+      "id": "competitive-deathmatch-competitor-2020"
+    },
+    {
+      "name": "Competitive Deathmatch Hero 2018",
+      "id": "competitive-deathmatch-hero-2018"
+    },
+    {
+      "name": "Competitive Deathmatch Hero 2019",
+      "id": "competitive-deathmatch-hero-2019"
+    },
+    {
+      "name": "Competitive Deathmatch Hero 2020",
+      "id": "competitive-deathmatch-hero-2020"
+    },
+    {
+      "name": "Competitive Team Deathmatch Competitor 2018",
+      "id": "competitive-team-deathmatch-competitor-2018"
+    },
+    {
+      "name": "Competitive Team Deathmatch Competitor 2019",
+      "id": "competitive-team-deathmatch-competitor-2019"
+    },
+    {
+      "name": "Competitive Team Deathmatch Competitor 2020",
+      "id": "competitive-team-deathmatch-competitor-2020"
+    },
+    {
+      "name": "Competitive Team Deathmatch Hero 2018",
+      "id": "competitive-team-deathmatch-hero-2018"
+    },
+    {
+      "name": "Competitive Team Deathmatch Hero 2019",
+      "id": "competitive-team-deathmatch-hero-2019"
+    },
+    {
+      "name": "Competitive Team Deathmatch Hero 2020",
+      "id": "competitive-team-deathmatch-hero-2020"
+    },
+    {
+      "name": "Copa Lúcioball Competitor",
+      "id": "copa-lucioball-competitor"
+    },
+    {
+      "name": "Copa Lúcioball Competitor 2018",
+      "id": "copa-lucioball-competitor-2018"
+    },
+    {
+      "name": "Copa Lúcioball Competitor 2019",
+      "id": "copa-lucioball-competitor-2019"
+    },
+    {
+      "name": "Copa Lúcioball Competitor 2020",
+      "id": "copa-lucioball-competitor-2020"
+    },
+    {
+      "name": "Copa Lúcioball Hero",
+      "id": "copa-lucioball-hero"
+    },
+    {
+      "name": "Copa Lúcioball Hero 2018",
+      "id": "copa-lucioball-hero-2018"
+    },
+    {
+      "name": "Copa Lúcioball Hero 2019",
+      "id": "copa-lucioball-hero-2019"
+    },
+    {
+      "name": "Copa Lúcioball Hero 2020",
+      "id": "copa-lucioball-hero-2020"
+    },
+    {
+      "name": "Credit",
+      "id": "credit"
+    },
+    {
+      "name": "Crusader",
+      "id": "crusader"
+    },
+    {
+      "name": "Cupachicake",
+      "id": "cupachicake"
+    },
+    {
+      "name": "Dallas Fuel",
+      "id": "dallas-fuel"
+    },
+    {
+      "name": "Dark Lady",
+      "id": "dark-lady"
+    },
+    {
+      "name": "Dark Wanderer",
+      "id": "dark-wanderer"
+    },
+    {
+      "name": "Demolition",
+      "id": "demolition"
+    },
+    {
+      "name": "Demon Hunter",
+      "id": "demon-hunter"
+    },
+    {
+      "name": "Denmark",
+      "id": "denmark"
+    },
+    {
+      "name": "Dominion",
+      "id": "dominion"
+    },
+    {
+      "name": "Dragon Dance",
+      "id": "dragon-dance"
+    },
+    {
+      "name": "Dreidel",
+      "id": "dreidel"
+    },
+    {
+      "name": "Drop Pod",
+      "id": "drop-pod"
+    },
+    {
+      "name": "Egypt",
+      "id": "egypt"
+    },
+    {
+      "name": "Elephant",
+      "id": "elephant"
+    },
+    {
+      "name": "Enforcer",
+      "id": "enforcer"
+    },
+    {
+      "name": "Eyeball",
+      "id": "eyeball"
+    },
+    {
+      "name": "Fanous",
+      "id": "fanous"
+    },
+    {
+      "name": "Finland",
+      "id": "finland"
+    },
+    {
+      "name": "Florida Mayhem",
+      "id": "florida-mayhem"
+    },
+    {
+      "name": "Florida Mayhem 2018",
+      "id": "florida-mayhem-2018"
+    },
+    {
+      "name": "Footballmari",
+      "id": "footballmari"
+    },
+    {
+      "name": "For the Alliance",
+      "id": "for-the-alliance"
+    },
+    {
+      "name": "For the Horde",
+      "id": "for-the-horde"
+    },
+    {
+      "name": "Fortune",
+      "id": "fortune"
+    },
+    {
+      "name": "France",
+      "id": "france"
+    },
+    {
+      "name": "From Beyond the Moon",
+      "id": "from-beyond-the-moon"
+    },
+    {
+      "name": "Fuchimari",
+      "id": "fuchimari"
+    },
+    {
+      "name": "Garrosh",
+      "id": "garrosh"
+    },
+    {
+      "name": "Germany",
+      "id": "germany"
+    },
+    {
+      "name": "Ghostymari",
+      "id": "ghostymari"
+    },
+    {
+      "name": "Gingerbread",
+      "id": "gingerbread"
+    },
+    {
+      "name": "Gingermari",
+      "id": "gingermari"
+    },
+    {
+      "name": "Gold",
+      "id": "gold"
+    },
+    {
+      "name": "Golfimari",
+      "id": "golfimari"
+    },
+    {
+      "name": "Good Fortune",
+      "id": "good-fortune"
+    },
+    {
+      "name": "Grand Finals 2019",
+      "id": "grand-finals-2019"
+    },
+    {
+      "name": "Greece",
+      "id": "greece"
+    },
+    {
+      "name": "Guan Yu",
+      "id": "guan-yu"
+    },
+    {
+      "name": "Guangzhou Charge",
+      "id": "guangzhou-charge"
+    },
+    {
+      "name": "Halloween Terror 2016",
+      "id": "halloween-terror-2016"
+    },
+    {
+      "name": "Halloween Terror 2017",
+      "id": "halloween-terror-2017"
+    },
+    {
+      "name": "Halloween Terror 2018",
+      "id": "halloween-terror-2018"
+    },
+    {
+      "name": "Halloween Terror 2019",
+      "id": "halloween-terror-2019"
+    },
+    {
+      "name": "Halloween Terror 2020",
+      "id": "halloween-terror-2020"
+    },
+    {
+      "name": "Hangzhou Spark",
+      "id": "hangzhou-spark"
+    },
+    {
+      "name": "Happy Squid",
+      "id": "happy-squid"
+    },
+    {
+      "name": "Have Fish",
+      "id": "have-fish"
+    },
+    {
+      "name": "Hearthstone",
+      "id": "hearthstone"
+    },
+    {
+      "name": "Heavy Assault",
+      "id": "heavy-assault"
+    },
+    {
+      "name": "Hierarch",
+      "id": "hierarch"
+    },
+    {
+      "name": "Holly",
+      "id": "holly"
+    },
+    {
+      "name": "Hong Gildong",
+      "id": "hong-gildong"
+    },
+    {
+      "name": "Hot Cocoa",
+      "id": "hot-cocoa"
+    },
+    {
+      "name": "Houston Outlaws",
+      "id": "houston-outlaws"
+    },
+    {
+      "name": "Huang Zhong",
+      "id": "huang-zhong"
+    },
+    {
+      "name": "Huchimari",
+      "id": "huchimari"
+    },
+    {
+      "name": "Inaugural Season",
+      "id": "inaugural-season"
+    },
+    {
+      "name": "Ireland",
+      "id": "ireland"
+    },
+    {
+      "name": "Israel",
+      "id": "israel"
+    },
+    {
+      "name": "Italy",
+      "id": "italy"
+    },
+    {
+      "name": "Jaina",
+      "id": "jaina"
+    },
+    {
+      "name": "Japan",
+      "id": "japan"
+    },
+    {
+      "name": "Jim",
+      "id": "jim"
+    },
+    {
+      "name": "Jordan",
+      "id": "jordan"
+    },
+    {
+      "name": "Junkenstein's Pachimonster",
+      "id": "junkensteins-pachimonster"
+    },
+    {
+      "name": "Kel'Thuzad",
+      "id": "kelthuzad"
+    },
+    {
+      "name": "Kittymari",
+      "id": "kittymari"
+    },
+    {
+      "name": "Kul Tiras",
+      "id": "kul-tiras"
+    },
+    {
+      "name": "Kọfị Aromo",
+      "id": "kofi-aromo"
+    },
+    {
+      "name": "Lantern",
+      "id": "lantern"
+    },
+    {
+      "name": "Lich King",
+      "id": "lich-king"
+    },
+    {
+      "name": "Lion Dance",
+      "id": "lion-dance"
+    },
+    {
+      "name": "London Spitfire",
+      "id": "london-spitfire"
+    },
+    {
+      "name": "Loot Box",
+      "id": "loot-box"
+    },
+    {
+      "name": "Lord of Candy",
+      "id": "lord-of-candy"
+    },
+    {
+      "name": "Lord of Terror",
+      "id": "lord-of-terror"
+    },
+    {
+      "name": "Los Angeles Gladiators",
+      "id": "los-angeles-gladiators"
+    },
+    {
+      "name": "Los Angeles Valiant",
+      "id": "los-angeles-valiant"
+    },
+    {
+      "name": "Los Angeles Valiant 2018",
+      "id": "los-angeles-valiant-2018"
+    },
+    {
+      "name": "Los Muertos",
+      "id": "los-muertos"
+    },
+    {
+      "name": "Lucky Pouch",
+      "id": "lucky-pouch"
+    },
+    {
+      "name": "Lü Bu",
+      "id": "l-bu"
+    },
+    {
+      "name": "Mama Pig's",
+      "id": "mama-pigs"
+    },
+    {
+      "name": "Mariachi",
+      "id": "mariachi"
+    },
+    {
+      "name": "Maximilien",
+      "id": "maximilien"
+    },
+    {
+      "name": "Mech",
+      "id": "mech"
+    },
+    {
+      "name": "Meteor",
+      "id": "meteor"
+    },
+    {
+      "name": "Mexico",
+      "id": "mexico"
+    },
+    {
+      "name": "Mochi",
+      "id": "mochi"
+    },
+    {
+      "name": "Monk",
+      "id": "monk"
+    },
+    {
+      "name": "Na Zdorovie",
+      "id": "na-zdorovie"
+    },
+    {
+      "name": "Nepal",
+      "id": "nepal"
+    },
+    {
+      "name": "Netherlands",
+      "id": "netherlands"
+    },
+    {
+      "name": "New Year Cake",
+      "id": "new-year-cake"
+    },
+    {
+      "name": "New York Excelsior",
+      "id": "new-york-excelsior"
+    },
+    {
+      "name": "New Zealand",
+      "id": "new-zealand"
+    },
+    {
+      "name": "Nexus",
+      "id": "nexus"
+    },
+    {
+      "name": "Null Sector",
+      "id": "null-sector"
+    },
+    {
+      "name": "Nullmari",
+      "id": "nullmari"
+    },
+    {
+      "name": "Numbani",
+      "id": "numbani"
+    },
+    {
+      "name": "Open Queue Season 1 Competitor",
+      "id": "open-queue-season-1-competitor"
+    },
+    {
+      "name": "Open Queue Season 1 Hero",
+      "id": "open-queue-season-1-hero"
+    },
+    {
+      "name": "Open Queue Season 2 Competitor",
+      "id": "open-queue-season-2-competitor"
+    },
+    {
+      "name": "Open Queue Season 2 Hero",
+      "id": "open-queue-season-2-hero"
+    },
+    {
+      "name": "Ornament",
+      "id": "ornament"
+    },
+    {
+      "name": "Overwatch Contenders",
+      "id": "overwatch-contenders"
+    },
+    {
+      "name": "Overwatch Dark",
+      "id": "overwatch-dark"
+    },
+    {
+      "name": "Overwatch League",
+      "id": "overwatch-league"
+    },
+    {
+      "name": "Overwatch Light",
+      "id": "overwatch-light"
+    },
+    {
+      "name": "Pachicracker",
+      "id": "pachicracker"
+    },
+    {
+      "name": "Pachilantern",
+      "id": "pachilantern"
+    },
+    {
+      "name": "Pachimari",
+      "id": "pachimari"
+    },
+    {
+      "name": "Pachimerry",
+      "id": "pachimerry"
+    },
+    {
+      "name": "Pachimummy",
+      "id": "pachimummy"
+    },
+    {
+      "name": "Pachireindeer",
+      "id": "pachireindeer"
+    },
+    {
+      "name": "Pachiversary",
+      "id": "pachiversary"
+    },
+    {
+      "name": "Paqingmari",
+      "id": "paqingmari"
+    },
+    {
+      "name": "Paquemari",
+      "id": "paquemari"
+    },
+    {
+      "name": "Paris Eternal",
+      "id": "paris-eternal"
+    },
+    {
+      "name": "Path to Pro 2019",
+      "id": "path-to-pro-2019"
+    },
+    {
+      "name": "Path to Pro 2020",
+      "id": "path-to-pro-2020"
+    },
+    {
+      "name": "Peachimari",
+      "id": "peachimari"
+    },
+    {
+      "name": "Peppermint",
+      "id": "peppermint"
+    },
+    {
+      "name": "Pharaoh",
+      "id": "pharaoh"
+    },
+    {
+      "name": "Philadelphia Fusion",
+      "id": "philadelphia-fusion"
+    },
+    {
+      "name": "Piggimari",
+      "id": "piggimari"
+    },
+    {
+      "name": "Portugal",
+      "id": "portugal"
+    },
+    {
+      "name": "Present",
+      "id": "present"
+    },
+    {
+      "name": "Protoss",
+      "id": "protoss"
+    },
+    {
+      "name": "Pumpkimari",
+      "id": "pumpkimari"
+    },
+    {
+      "name": "Punchimari",
+      "id": "punchimari"
+    },
+    {
+      "name": "Qinglong",
+      "id": "qinglong"
+    },
+    {
+      "name": "Queen of Blades",
+      "id": "queen-of-blades"
+    },
+    {
+      "name": "Ramen",
+      "id": "ramen"
+    },
+    {
+      "name": "Red Envelope",
+      "id": "red-envelope"
+    },
+    {
+      "name": "Rhino",
+      "id": "rhino"
+    },
+    {
+      "name": "Rikimaru",
+      "id": "rikimaru"
+    },
+    {
+      "name": "Romania",
+      "id": "romania"
+    },
+    {
+      "name": "Route 66",
+      "id": "route-66"
+    },
+    {
+      "name": "Russia",
+      "id": "russia"
+    },
+    {
+      "name": "Sakura",
+      "id": "sakura"
+    },
+    {
+      "name": "San Francisco Shock",
+      "id": "san-francisco-shock"
+    },
+    {
+      "name": "San Francisco Shock 2018",
+      "id": "san-francisco-shock-2018"
+    },
+    {
+      "name": "Scooter",
+      "id": "scooter"
+    },
+    {
+      "name": "Season 1 Competitor",
+      "id": "season-1-competitor"
+    },
+    {
+      "name": "Season 1 Hero",
+      "id": "season-1-hero"
+    },
+    {
+      "name": "Season 10 Competitor",
+      "id": "season-10-competitor"
+    },
+    {
+      "name": "Season 10 Hero",
+      "id": "season-10-hero"
+    },
+    {
+      "name": "Season 11 Competitor",
+      "id": "season-11-competitor"
+    },
+    {
+      "name": "Season 11 Hero",
+      "id": "season-11-hero"
+    },
+    {
+      "name": "Season 12 Competitor",
+      "id": "season-12-competitor"
+    },
+    {
+      "name": "Season 12 Hero",
+      "id": "season-12-hero"
+    },
+    {
+      "name": "Season 13 Competitor",
+      "id": "season-13-competitor"
+    },
+    {
+      "name": "Season 13 Hero",
+      "id": "season-13-hero"
+    },
+    {
+      "name": "Season 14 Competitor",
+      "id": "season-14-competitor"
+    },
+    {
+      "name": "Season 14 Hero",
+      "id": "season-14-hero"
+    },
+    {
+      "name": "Season 15 Competitor",
+      "id": "season-15-competitor"
+    },
+    {
+      "name": "Season 15 Hero",
+      "id": "season-15-hero"
+    },
+    {
+      "name": "Season 16 Competitor",
+      "id": "season-16-competitor"
+    },
+    {
+      "name": "Season 16 Hero",
+      "id": "season-16-hero"
+    },
+    {
+      "name": "Season 17 Competitor",
+      "id": "season-17-competitor"
+    },
+    {
+      "name": "Season 17 Hero",
+      "id": "season-17-hero"
+    },
+    {
+      "name": "Season 18 Competitor",
+      "id": "season-18-competitor"
+    },
+    {
+      "name": "Season 18 Hero",
+      "id": "season-18-hero"
+    },
+    {
+      "name": "Season 19 Competitor",
+      "id": "season-19-competitor"
+    },
+    {
+      "name": "Season 19 Hero",
+      "id": "season-19-hero"
+    },
+    {
+      "name": "Season 2 Competitor",
+      "id": "season-2-competitor"
+    },
+    {
+      "name": "Season 2 Hero",
+      "id": "season-2-hero"
+    },
+    {
+      "name": "Season 20 Competitor",
+      "id": "season-20-competitor"
+    },
+    {
+      "name": "Season 20 Hero",
+      "id": "season-20-hero"
+    },
+    {
+      "name": "Season 21 Competitor",
+      "id": "season-21-competitor"
+    },
+    {
+      "name": "Season 21 Hero",
+      "id": "season-21-hero"
+    },
+    {
+      "name": "Season 22 Competitor",
+      "id": "season-22-competitor"
+    },
+    {
+      "name": "Season 22 Hero",
+      "id": "season-22-hero"
+    },
+    {
+      "name": "Season 23 Competitor",
+      "id": "season-23-competitor"
+    },
+    {
+      "name": "Season 23 Hero",
+      "id": "season-23-hero"
+    },
+    {
+      "name": "Season 24 Competitor",
+      "id": "season-24-competitor"
+    },
+    {
+      "name": "Season 24 Hero",
+      "id": "season-24-hero"
+    },
+    {
+      "name": "Season 25 Competitor",
+      "id": "season-25-competitor"
+    },
+    {
+      "name": "Season 25 Hero",
+      "id": "season-25-hero"
+    },
+    {
+      "name": "Season 3 Competitor",
+      "id": "season-3-competitor"
+    },
+    {
+      "name": "Season 3 Hero",
+      "id": "season-3-hero"
+    },
+    {
+      "name": "Season 4 Competitor",
+      "id": "season-4-competitor"
+    },
+    {
+      "name": "Season 4 Hero",
+      "id": "season-4-hero"
+    },
+    {
+      "name": "Season 5 Competitor",
+      "id": "season-5-competitor"
+    },
+    {
+      "name": "Season 5 Hero",
+      "id": "season-5-hero"
+    },
+    {
+      "name": "Season 6 Competitor",
+      "id": "season-6-competitor"
+    },
+    {
+      "name": "Season 6 Hero",
+      "id": "season-6-hero"
+    },
+    {
+      "name": "Season 7 Competitor",
+      "id": "season-7-competitor"
+    },
+    {
+      "name": "Season 7 Hero",
+      "id": "season-7-hero"
+    },
+    {
+      "name": "Season 8 Competitor",
+      "id": "season-8-competitor"
+    },
+    {
+      "name": "Season 8 Hero",
+      "id": "season-8-hero"
+    },
+    {
+      "name": "Season 9 Competitor",
+      "id": "season-9-competitor"
+    },
+    {
+      "name": "Season 9 Hero",
+      "id": "season-9-hero"
+    },
+    {
+      "name": "Seollal",
+      "id": "seollal"
+    },
+    {
+      "name": "Seoul Dynasty",
+      "id": "seoul-dynasty"
+    },
+    {
+      "name": "Shanghai Dragons",
+      "id": "shanghai-dragons"
+    },
+    {
+      "name": "Siege Mode",
+      "id": "siege-mode"
+    },
+    {
+      "name": "Six-Gun Killer",
+      "id": "sixgun-killer"
+    },
+    {
+      "name": "Skelemari",
+      "id": "skelemari"
+    },
+    {
+      "name": "Sniper",
+      "id": "sniper"
+    },
+    {
+      "name": "Snorkelmari",
+      "id": "snorkelmari"
+    },
+    {
+      "name": "Snow Globe",
+      "id": "snow-globe"
+    },
+    {
+      "name": "Snowimari",
+      "id": "snowimari"
+    },
+    {
+      "name": "Snowman",
+      "id": "snowman"
+    },
+    {
+      "name": "South Korea",
+      "id": "south-korea"
+    },
+    {
+      "name": "Spain",
+      "id": "spain"
+    },
+    {
+      "name": "Spider",
+      "id": "spider"
+    },
+    {
+      "name": "Stocking",
+      "id": "stocking"
+    },
+    {
+      "name": "Summer Games 2016",
+      "id": "summer-games-2016"
+    },
+    {
+      "name": "Summer Games 2017",
+      "id": "summer-games-2017"
+    },
+    {
+      "name": "Summer Games 2018",
+      "id": "summer-games-2018"
+    },
+    {
+      "name": "Summer Games 2019",
+      "id": "summer-games-2019"
+    },
+    {
+      "name": "Summer Games 2020",
+      "id": "summer-games-2020"
+    },
+    {
+      "name": "Superstition",
+      "id": "superstition"
+    },
+    {
+      "name": "Surfimari",
+      "id": "surfimari"
+    },
+    {
+      "name": "Svyatogor",
+      "id": "svyatogor"
+    },
+    {
+      "name": "Sweden",
+      "id": "sweden"
+    },
+    {
+      "name": "Switzerland",
+      "id": "switzerland"
+    },
+    {
+      "name": "Tangerines",
+      "id": "tangerines"
+    },
+    {
+      "name": "Tannenbaum",
+      "id": "tannenbaum"
+    },
+    {
+      "name": "Tennismari",
+      "id": "tennismari"
+    },
+    {
+      "name": "Terran",
+      "id": "terran"
+    },
+    {
+      "name": "Thrall",
+      "id": "thrall"
+    },
+    {
+      "name": "Tombstone",
+      "id": "tombstone"
+    },
+    {
+      "name": "Top 500",
+      "id": "top-500"
+    },
+    {
+      "name": "Toronto Defiant",
+      "id": "toronto-defiant"
+    },
+    {
+      "name": "Totem",
+      "id": "totem"
+    },
+    {
+      "name": "Training Bot",
+      "id": "training-bot"
+    },
+    {
+      "name": "Trooper",
+      "id": "trooper"
+    },
+    {
+      "name": "Tyrande",
+      "id": "tyrande"
+    },
+    {
+      "name": "United Kingdom",
+      "id": "united-kingdom"
+    },
+    {
+      "name": "United States of America",
+      "id": "united-states-of-america"
+    },
+    {
+      "name": "Uprising 2017",
+      "id": "uprising-2017"
+    },
+    {
+      "name": "Vampachimari",
+      "id": "vampachimari"
+    },
+    {
+      "name": "Vancouver Titans",
+      "id": "vancouver-titans"
+    },
+    {
+      "name": "Varian",
+      "id": "varian"
+    },
+    {
+      "name": "Vivi",
+      "id": "vivi"
+    },
+    {
+      "name": "Washington Justice",
+      "id": "washington-justice"
+    },
+    {
+      "name": "Winter Wonderland 2016",
+      "id": "winter-wonderland-2016"
+    },
+    {
+      "name": "Winter Wonderland 2017",
+      "id": "winter-wonderland-2017"
+    },
+    {
+      "name": "Winter Wonderland 2018",
+      "id": "winter-wonderland-2018"
+    },
+    {
+      "name": "Winter Wonderland 2019",
+      "id": "winter-wonderland-2019"
+    },
+    {
+      "name": "Witch Doctor",
+      "id": "witch-doctor"
+    },
+    {
+      "name": "Witch's Brew",
+      "id": "witchs-brew"
+    },
+    {
+      "name": "Witch's Hat",
+      "id": "witchs-hat"
+    },
+    {
+      "name": "Witchymari",
+      "id": "witchymari"
+    },
+    {
+      "name": "Wizard",
+      "id": "wizard"
+    },
+    {
+      "name": "Wolf",
+      "id": "wolf"
+    },
+    {
+      "name": "Wreath",
+      "id": "wreath"
+    },
+    {
+      "name": "Wuchimari",
+      "id": "wuchimari"
+    },
+    {
+      "name": "Xuanwu",
+      "id": "xuanwu"
+    },
+    {
+      "name": "Year of the Dog 2018",
+      "id": "year-of-the-dog-2018"
+    },
+    {
+      "name": "Year of the Pig 2019",
+      "id": "year-of-the-pig-2019"
+    },
+    {
+      "name": "Year of the Rat 2020",
+      "id": "year-of-the-rat-2020"
+    },
+    {
+      "name": "Year of the Rooster 2017",
+      "id": "year-of-the-rooster-2017"
+    },
+    {
+      "name": "Yetimari",
+      "id": "yetimari"
+    },
+    {
+      "name": "You are not prepared",
+      "id": "you-are-not-prepared"
+    },
+    {
+      "name": "Zandalar",
+      "id": "zandalar"
+    },
+    {
+      "name": "Zerg",
+      "id": "zerg"
+    },
+    {
+      "name": "Zhang Fei",
+      "id": "zhang-fei"
+    },
+    {
+      "name": "Zhuge Liang",
+      "id": "zhuge-liang"
+    },
+    {
+      "name": "Zhuque",
+      "id": "zhuque"
+    }
+  ],
+  "sprays": [
+    {
+      "name": "#1 Fan",
+      "id": "1-fan"
+    },
+    {
+      "name": "...Never Die",
+      "id": "never-die"
+    },
+    {
+      "name": "...Punch",
+      "id": "punch"
+    },
+    {
+      "name": "Aggressive",
+      "id": "aggressive"
+    },
+    {
+      "name": "Almendrón",
+      "id": "almendron"
+    },
+    {
+      "name": "Ambush",
+      "id": "ambush"
+    },
+    {
+      "name": "Anduin",
+      "id": "anduin"
+    },
+    {
+      "name": "Anniversary",
+      "id": "anniversary"
+    },
+    {
+      "name": "Archives",
+      "id": "archives"
+    },
+    {
+      "name": "Atlanta Reign Homestand 2020",
+      "id": "atlanta-reign-homestand-2020"
+    },
+    {
+      "name": "Atlanta Reign Logo",
+      "id": "atlanta-reign-logo"
+    },
+    {
+      "name": "Auspicious Lion",
+      "id": "auspicious-lion"
+    },
+    {
+      "name": "Awakened Lion",
+      "id": "awakened-lion"
+    },
+    {
+      "name": "B73-NS",
+      "id": "b73ns"
+    },
+    {
+      "name": "Barbarian",
+      "id": "barbarian"
+    },
+    {
+      "name": "Bastet",
+      "id": "bastet"
+    },
+    {
+      "name": "Bats",
+      "id": "bats"
+    },
+    {
+      "name": "Beyond the Moon",
+      "id": "beyond-the-moon"
+    },
+    {
+      "name": "Bicycle Kick",
+      "id": "bicycle-kick"
+    },
+    {
+      "name": "Big Plans",
+      "id": "big-plans"
+    },
+    {
+      "name": "Blood Moon Rising",
+      "id": "blood-moon-rising"
+    },
+    {
+      "name": "Bonk",
+      "id": "bonk"
+    },
+    {
+      "name": "Boo!",
+      "id": "boo"
+    },
+    {
+      "name": "Boop!",
+      "id": "boop"
+    },
+    {
+      "name": "Boston Uprising Homestand 2020",
+      "id": "boston-uprising-homestand-2020"
+    },
+    {
+      "name": "Boston Uprising Logo",
+      "id": "boston-uprising-logo"
+    },
+    {
+      "name": "Candyball",
+      "id": "candyball"
+    },
+    {
+      "name": "Captured Flag",
+      "id": "captured-flag"
+    },
+    {
+      "name": "Carry",
+      "id": "carry"
+    },
+    {
+      "name": "Catcher",
+      "id": "catcher"
+    },
+    {
+      "name": "Caution",
+      "id": "caution"
+    },
+    {
+      "name": "Chengdu Hunters Homestand 2020",
+      "id": "chengdu-hunters-homestand-2020"
+    },
+    {
+      "name": "Chengdu Hunters Logo",
+      "id": "chengdu-hunters-logo"
+    },
+    {
+      "name": "Competitive 3v3 Elimination Competitor 2018",
+      "id": "competitive-3v3-elimination-competitor-2018"
+    },
+    {
+      "name": "Competitive 3v3 Elimination Competitor 2019",
+      "id": "competitive-3v3-elimination-competitor-2019"
+    },
+    {
+      "name": "Competitive 3v3 Elimination Competitor 2020",
+      "id": "competitive-3v3-elimination-competitor-2020"
+    },
+    {
+      "name": "Competitive 3v3 Elimination Hero 2018",
+      "id": "competitive-3v3-elimination-hero-2018"
+    },
+    {
+      "name": "Competitive 3v3 Elimination Hero 2019",
+      "id": "competitive-3v3-elimination-hero-2019"
+    },
+    {
+      "name": "Competitive 3v3 Elimination Hero 2020",
+      "id": "competitive-3v3-elimination-hero-2020"
+    },
+    {
+      "name": "Competitive 6v6 Elimination Competitor 2018",
+      "id": "competitive-6v6-elimination-competitor-2018"
+    },
+    {
+      "name": "Competitive 6v6 Elimination Competitor 2019",
+      "id": "competitive-6v6-elimination-competitor-2019"
+    },
+    {
+      "name": "Competitive 6v6 Elimination Competitor 2020",
+      "id": "competitive-6v6-elimination-competitor-2020"
+    },
+    {
+      "name": "Competitive 6v6 Elimination Hero 2018",
+      "id": "competitive-6v6-elimination-hero-2018"
+    },
+    {
+      "name": "Competitive 6v6 Elimination Hero 2019",
+      "id": "competitive-6v6-elimination-hero-2019"
+    },
+    {
+      "name": "Competitive 6v6 Elimination Hero 2020",
+      "id": "competitive-6v6-elimination-hero-2020"
+    },
+    {
+      "name": "Competitive CTF Competitor 2018",
+      "id": "competitive-ctf-competitor-2018"
+    },
+    {
+      "name": "Competitive CTF Competitor 2019",
+      "id": "competitive-ctf-competitor-2019"
+    },
+    {
+      "name": "Competitive CTF Competitor 2020",
+      "id": "competitive-ctf-competitor-2020"
+    },
+    {
+      "name": "Competitive CTF Hero 2019",
+      "id": "competitive-ctf-hero-2019"
+    },
+    {
+      "name": "Competitive CTF Hero 2020",
+      "id": "competitive-ctf-hero-2020"
+    },
+    {
+      "name": "Competitive Deathmatch Competitor 2018",
+      "id": "competitive-deathmatch-competitor-2018"
+    },
+    {
+      "name": "Competitive Deathmatch Competitor 2019",
+      "id": "competitive-deathmatch-competitor-2019"
+    },
+    {
+      "name": "Competitive Deathmatch Competitor 2020",
+      "id": "competitive-deathmatch-competitor-2020"
+    },
+    {
+      "name": "Competitive Deathmatch Hero 2018",
+      "id": "competitive-deathmatch-hero-2018"
+    },
+    {
+      "name": "Competitive Deathmatch Hero 2019",
+      "id": "competitive-deathmatch-hero-2019"
+    },
+    {
+      "name": "Competitive Deathmatch Hero 2020",
+      "id": "competitive-deathmatch-hero-2020"
+    },
+    {
+      "name": "Competitive Team Deathmatch Competitor 2018",
+      "id": "competitive-team-deathmatch-competitor-2018"
+    },
+    {
+      "name": "Competitive Team Deathmatch Competitor 2019",
+      "id": "competitive-team-deathmatch-competitor-2019"
+    },
+    {
+      "name": "Competitive Team Deathmatch Competitor 2020",
+      "id": "competitive-team-deathmatch-competitor-2020"
+    },
+    {
+      "name": "Competitive Team Deathmatch Hero 2018",
+      "id": "competitive-team-deathmatch-hero-2018"
+    },
+    {
+      "name": "Competitive Team Deathmatch Hero 2019",
+      "id": "competitive-team-deathmatch-hero-2019"
+    },
+    {
+      "name": "Competitive Team Deathmatch Hero 2020",
+      "id": "competitive-team-deathmatch-hero-2020"
+    },
+    {
+      "name": "Copa Lúcioball Competitor",
+      "id": "copa-lucioball-competitor"
+    },
+    {
+      "name": "Copa Lúcioball Competitor 2018",
+      "id": "copa-lucioball-competitor-2018"
+    },
+    {
+      "name": "Copa Lúcioball Competitor 2019",
+      "id": "copa-lucioball-competitor-2019"
+    },
+    {
+      "name": "Copa Lúcioball Competitor 2020",
+      "id": "copa-lucioball-competitor-2020"
+    },
+    {
+      "name": "Copa Lúcioball Hero 2018",
+      "id": "copa-lucioball-hero-2018"
+    },
+    {
+      "name": "Copa Lúcioball Hero 2019",
+      "id": "copa-lucioball-hero-2019"
+    },
+    {
+      "name": "Copa Lúcioball Hero 2020",
+      "id": "copa-lucioball-hero-2020"
+    },
+    {
+      "name": "Crusader",
+      "id": "crusader"
+    },
+    {
+      "name": "Cut the Brakes",
+      "id": "cut-the-brakes"
+    },
+    {
+      "name": "Dallas Fuel Homestand 2020",
+      "id": "dallas-fuel-homestand-2020"
+    },
+    {
+      "name": "Dallas Fuel Logo",
+      "id": "dallas-fuel-logo"
+    },
+    {
+      "name": "Dance",
+      "id": "dance"
+    },
+    {
+      "name": "Dark Logo",
+      "id": "dark-logo"
+    },
+    {
+      "name": "Dark Overwatch",
+      "id": "dark-overwatch"
+    },
+    {
+      "name": "Dark Title",
+      "id": "dark-title"
+    },
+    {
+      "name": "Deadeye Strike",
+      "id": "deadeye-strike"
+    },
+    {
+      "name": "Demon Hunter",
+      "id": "demon-hunter"
+    },
+    {
+      "name": "Detonated",
+      "id": "detonated"
+    },
+    {
+      "name": "Dragon's Head",
+      "id": "dragons-head"
+    },
+    {
+      "name": "Droppachi",
+      "id": "droppachi"
+    },
+    {
+      "name": "Día de los Muertos",
+      "id": "da-de-los-muertos"
+    },
+    {
+      "name": "Eradicator",
+      "id": "eradicator"
+    },
+    {
+      "name": "Fangs",
+      "id": "fangs"
+    },
+    {
+      "name": "Fast",
+      "id": "fast"
+    },
+    {
+      "name": "Feast",
+      "id": "feast"
+    },
+    {
+      "name": "Feeling Invincible",
+      "id": "feeling-invincible"
+    },
+    {
+      "name": "Flaming Pumpkin",
+      "id": "flaming-pumpkin"
+    },
+    {
+      "name": "Florida Mayhem 2018 Logo",
+      "id": "florida-mayhem-2018-logo"
+    },
+    {
+      "name": "Florida Mayhem Homestand 2020",
+      "id": "florida-mayhem-homestand-2020"
+    },
+    {
+      "name": "Florida Mayhem Logo",
+      "id": "florida-mayhem-logo"
+    },
+    {
+      "name": "Forge Onward",
+      "id": "forge-onward"
+    },
+    {
+      "name": "FotS2",
+      "id": "fots2"
+    },
+    {
+      "name": "Frenzied Stampede",
+      "id": "frenzied-stampede"
+    },
+    {
+      "name": "Frozen Throne",
+      "id": "frozen-throne"
+    },
+    {
+      "name": "Fuji",
+      "id": "fuji"
+    },
+    {
+      "name": "GL HF",
+      "id": "gl-hf"
+    },
+    {
+      "name": "Goal Blossom",
+      "id": "goal-blossom"
+    },
+    {
+      "name": "Goalkeeper",
+      "id": "goalkeeper"
+    },
+    {
+      "name": "Goldshire Pictures",
+      "id": "goldshire-pictures"
+    },
+    {
+      "name": "Good Fortune",
+      "id": "good-fortune"
+    },
+    {
+      "name": "Grand Finals 2020",
+      "id": "grand-finals-2020"
+    },
+    {
+      "name": "Guangzhou Charge Homestand 2020",
+      "id": "guangzhou-charge-homestand-2020"
+    },
+    {
+      "name": "Guangzhou Charge Logo",
+      "id": "guangzhou-charge-logo"
+    },
+    {
+      "name": "Gummy Hog",
+      "id": "gummy-hog"
+    },
+    {
+      "name": "Halloween Elite",
+      "id": "halloween-elite"
+    },
+    {
+      "name": "Halloween Special",
+      "id": "halloween-special"
+    },
+    {
+      "name": "Halloween Terror",
+      "id": "halloween-terror"
+    },
+    {
+      "name": "Hangzhou Spark Homestand 2020",
+      "id": "hangzhou-spark-homestand-2020"
+    },
+    {
+      "name": "Hangzhou Spark Logo",
+      "id": "hangzhou-spark-logo"
+    },
+    {
+      "name": "Header",
+      "id": "header"
+    },
+    {
+      "name": "Holiday surprise",
+      "id": "holiday-surprise"
+    },
+    {
+      "name": "Hot Pursuit",
+      "id": "hot-pursuit"
+    },
+    {
+      "name": "Houston Outlaws Homestand 2020",
+      "id": "houston-outlaws-homestand-2020"
+    },
+    {
+      "name": "Houston Outlaws Logo",
+      "id": "houston-outlaws-logo"
+    },
+    {
+      "name": "Ice Spheres",
+      "id": "ice-spheres"
+    },
+    {
+      "name": "Inaugural Season",
+      "id": "inaugural-season"
+    },
+    {
+      "name": "Interrupted Delivery",
+      "id": "interrupted-delivery"
+    },
+    {
+      "name": "Jail",
+      "id": "jail"
+    },
+    {
+      "name": "Jaina",
+      "id": "jaina"
+    },
+    {
+      "name": "Junkenstein's Revenge",
+      "id": "junkensteins-revenge"
+    },
+    {
+      "name": "Jötunn",
+      "id": "jotunn"
+    },
+    {
+      "name": "Leek",
+      "id": "leek"
+    },
+    {
+      "name": "Light the Way",
+      "id": "light-the-way"
+    },
+    {
+      "name": "Living Room",
+      "id": "living-room"
+    },
+    {
+      "name": "Logo",
+      "id": "logo"
+    },
+    {
+      "name": "London Spitfire Homestand 2020",
+      "id": "london-spitfire-homestand-2020"
+    },
+    {
+      "name": "London Spitfire Logo",
+      "id": "london-spitfire-logo"
+    },
+    {
+      "name": "Los Angeles Gladiators Homestand 2020",
+      "id": "los-angeles-gladiators-homestand-2020"
+    },
+    {
+      "name": "Los Angeles Gladiators Logo",
+      "id": "los-angeles-gladiators-logo"
+    },
+    {
+      "name": "Los Angeles Valiant 2018 Logo",
+      "id": "los-angeles-valiant-2018-logo"
+    },
+    {
+      "name": "Los Angeles Valiant Homestand 2020",
+      "id": "los-angeles-valiant-homestand-2020"
+    },
+    {
+      "name": "Los Angeles Valiant Logo",
+      "id": "los-angeles-valiant-logo"
+    },
+    {
+      "name": "Lucky Pouch",
+      "id": "lucky-pouch"
+    },
+    {
+      "name": "Lumérico",
+      "id": "lumerico"
+    },
+    {
+      "name": "Man and Omnic",
+      "id": "man-and-omnic"
+    },
+    {
+      "name": "Match's On!",
+      "id": "matchs-on"
+    },
+    {
+      "name": "Monk",
+      "id": "monk"
+    },
+    {
+      "name": "Mountain Man",
+      "id": "mountain-man"
+    },
+    {
+      "name": "My Creations",
+      "id": "my-creations"
+    },
+    {
+      "name": "New Strike Team",
+      "id": "new-strike-team"
+    },
+    {
+      "name": "New York Excelsior Homestand 2020",
+      "id": "new-york-excelsior-homestand-2020"
+    },
+    {
+      "name": "New York Excelsior Logo",
+      "id": "new-york-excelsior-logo"
+    },
+    {
+      "name": "Null Sector",
+      "id": "null-sector"
+    },
+    {
+      "name": "Nullmari",
+      "id": "nullmari"
+    },
+    {
+      "name": "Nulltrooper",
+      "id": "nulltrooper"
+    },
+    {
+      "name": "Numbani Statue",
+      "id": "numbani-statue"
+    },
+    {
+      "name": "Omnic Rights",
+      "id": "omnic-rights"
+    },
+    {
+      "name": "Oops",
+      "id": "oops"
+    },
+    {
+      "name": "Open Queue Season 1 Competitor",
+      "id": "open-queue-season-1-competitor"
+    },
+    {
+      "name": "Open Queue Season 1 Hero",
+      "id": "open-queue-season-1-hero"
+    },
+    {
+      "name": "Open Queue Season 2 Competitor",
+      "id": "open-queue-season-2-competitor"
+    },
+    {
+      "name": "Open Queue Season 2 Hero",
+      "id": "open-queue-season-2-hero"
+    },
+    {
+      "name": "OR14-NS",
+      "id": "or14ns"
+    },
+    {
+      "name": "Out of My Way",
+      "id": "out-of-my-way"
+    },
+    {
+      "name": "Overwatch",
+      "id": "overwatch"
+    },
+    {
+      "name": "Overwatch Contenders",
+      "id": "overwatch-contenders"
+    },
+    {
+      "name": "Overwatch League",
+      "id": "overwatch-league"
+    },
+    {
+      "name": "Overwatch Title",
+      "id": "overwatch-title"
+    },
+    {
+      "name": "Pachimari",
+      "id": "pachimari"
+    },
+    {
+      "name": "Paris Eternal Homestand 2020",
+      "id": "paris-eternal-homestand-2020"
+    },
+    {
+      "name": "Paris Eternal Logo",
+      "id": "paris-eternal-logo"
+    },
+    {
+      "name": "Path to Pro 2019",
+      "id": "path-to-pro-2019"
+    },
+    {
+      "name": "Path to Pro 2020",
+      "id": "path-to-pro-2020"
+    },
+    {
+      "name": "Philadelphia Fusion Homestand 2020",
+      "id": "philadelphia-fusion-homestand-2020"
+    },
+    {
+      "name": "Philadelphia Fusion Logo",
+      "id": "philadelphia-fusion-logo"
+    },
+    {
+      "name": "Piñata",
+      "id": "piata"
+    },
+    {
+      "name": "Polar bear",
+      "id": "polar-bear"
+    },
+    {
+      "name": "Pumpkins",
+      "id": "pumpkins"
+    },
+    {
+      "name": "Quickdraw",
+      "id": "quickdraw"
+    },
+    {
+      "name": "Red Envelope",
+      "id": "red-envelope"
+    },
+    {
+      "name": "Red O",
+      "id": "red-o"
+    },
+    {
+      "name": "Red Riding Hunt",
+      "id": "red-riding-hunt"
+    },
+    {
+      "name": "Red X",
+      "id": "red-x"
+    },
+    {
+      "name": "Respect",
+      "id": "respect"
+    },
+    {
+      "name": "Rhino",
+      "id": "rhino"
+    },
+    {
+      "name": "Rikimaru",
+      "id": "rikimaru"
+    },
+    {
+      "name": "Rise",
+      "id": "rise"
+    },
+    {
+      "name": "Rise of the Zomnics",
+      "id": "rise-of-the-zomnics"
+    },
+    {
+      "name": "Safe Hands",
+      "id": "safe-hands"
+    },
+    {
+      "name": "San Francisco Shock 2018 Logo",
+      "id": "san-francisco-shock-2018-logo"
+    },
+    {
+      "name": "San Francisco Shock Homestand 2020",
+      "id": "san-francisco-shock-homestand-2020"
+    },
+    {
+      "name": "San Francisco Shock Logo",
+      "id": "san-francisco-shock-logo"
+    },
+    {
+      "name": "Sand Castle",
+      "id": "sand-castle"
+    },
+    {
+      "name": "Sarcophagus",
+      "id": "sarcophagus"
+    },
+    {
+      "name": "Saurfang",
+      "id": "saurfang"
+    },
+    {
+      "name": "Scooter",
+      "id": "scooter"
+    },
+    {
+      "name": "Scroll",
+      "id": "scroll"
+    },
+    {
+      "name": "Season 1 Competitor",
+      "id": "season-1-competitor"
+    },
+    {
+      "name": "Season 10 Competitor",
+      "id": "season-10-competitor"
+    },
+    {
+      "name": "Season 11 Competitor",
+      "id": "season-11-competitor"
+    },
+    {
+      "name": "Season 12 Competitor",
+      "id": "season-12-competitor"
+    },
+    {
+      "name": "Season 13 Competitor",
+      "id": "season-13-competitor"
+    },
+    {
+      "name": "Season 14 Competitor",
+      "id": "season-14-competitor"
+    },
+    {
+      "name": "Season 15 Competitor",
+      "id": "season-15-competitor"
+    },
+    {
+      "name": "Season 16 Competitor",
+      "id": "season-16-competitor"
+    },
+    {
+      "name": "Season 17 Competitor",
+      "id": "season-17-competitor"
+    },
+    {
+      "name": "Season 18 Competitor",
+      "id": "season-18-competitor"
+    },
+    {
+      "name": "Season 19 Competitor",
+      "id": "season-19-competitor"
+    },
+    {
+      "name": "Season 2 Competitor",
+      "id": "season-2-competitor"
+    },
+    {
+      "name": "Season 20 Competitor",
+      "id": "season-20-competitor"
+    },
+    {
+      "name": "Season 21 Competitor",
+      "id": "season-21-competitor"
+    },
+    {
+      "name": "Season 22 Competitor",
+      "id": "season-22-competitor"
+    },
+    {
+      "name": "Season 23 Competitor",
+      "id": "season-23-competitor"
+    },
+    {
+      "name": "Season 24 Competitor",
+      "id": "season-24-competitor"
+    },
+    {
+      "name": "Season 25 Competitor",
+      "id": "season-25-competitor"
+    },
+    {
+      "name": "Season 3 Competitor",
+      "id": "season-3-competitor"
+    },
+    {
+      "name": "Season 4 Competitor",
+      "id": "season-4-competitor"
+    },
+    {
+      "name": "Season 5 Competitor",
+      "id": "season-5-competitor"
+    },
+    {
+      "name": "Season 6 Competitor",
+      "id": "season-6-competitor"
+    },
+    {
+      "name": "Season 7 Competitor",
+      "id": "season-7-competitor"
+    },
+    {
+      "name": "Season 8 Competitor",
+      "id": "season-8-competitor"
+    },
+    {
+      "name": "Season 9 Competitor",
+      "id": "season-9-competitor"
+    },
+    {
+      "name": "Seoul Dynasty Homestand 2020",
+      "id": "seoul-dynasty-homestand-2020"
+    },
+    {
+      "name": "Seoul Dynasty Logo",
+      "id": "seoul-dynasty-logo"
+    },
+    {
+      "name": "Shanghai Dragons Homestand 2020",
+      "id": "shanghai-dragons-homestand-2020"
+    },
+    {
+      "name": "Shanghai Dragons Logo",
+      "id": "shanghai-dragons-logo"
+    },
+    {
+      "name": "Shark Attack",
+      "id": "shark-attack"
+    },
+    {
+      "name": "Siege Mode",
+      "id": "siege-mode"
+    },
+    {
+      "name": "Six-Gun Killer",
+      "id": "sixgun-killer"
+    },
+    {
+      "name": "Slicer",
+      "id": "slicer"
+    },
+    {
+      "name": "Snorkling",
+      "id": "snorkling"
+    },
+    {
+      "name": "Snow snow snow",
+      "id": "snow-snow-snow"
+    },
+    {
+      "name": "Snowcree",
+      "id": "snowcree"
+    },
+    {
+      "name": "Snowhog",
+      "id": "snowhog"
+    },
+    {
+      "name": "Snowmei",
+      "id": "snowmei"
+    },
+    {
+      "name": "Snowreaper",
+      "id": "snowreaper"
+    },
+    {
+      "name": "Sol",
+      "id": "sol"
+    },
+    {
+      "name": "Sorry",
+      "id": "sorry"
+    },
+    {
+      "name": "Soulstone",
+      "id": "soulstone"
+    },
+    {
+      "name": "Strike",
+      "id": "strike"
+    },
+    {
+      "name": "Summer Games",
+      "id": "summer-games"
+    },
+    {
+      "name": "Summer Games 2016",
+      "id": "summer-games-2016"
+    },
+    {
+      "name": "Sylvanas",
+      "id": "sylvanas"
+    },
+    {
+      "name": "Tailgate",
+      "id": "tailgate"
+    },
+    {
+      "name": "Talon Assassin",
+      "id": "talon-assassin"
+    },
+    {
+      "name": "Talon Enforcer",
+      "id": "talon-enforcer"
+    },
+    {
+      "name": "Talon Heavy Assault",
+      "id": "talon-heavy-assault"
+    },
+    {
+      "name": "Talon Sniper",
+      "id": "talon-sniper"
+    },
+    {
+      "name": "Talon Trooper",
+      "id": "talon-trooper"
+    },
+    {
+      "name": "Tea Time",
+      "id": "tea-time"
+    },
+    {
+      "name": "Thanks",
+      "id": "thanks"
+    },
+    {
+      "name": "The Broker",
+      "id": "the-broker"
+    },
+    {
+      "name": "The Monster",
+      "id": "the-monster"
+    },
+    {
+      "name": "The Reapening",
+      "id": "the-reapening"
+    },
+    {
+      "name": "The Reaper",
+      "id": "the-reaper"
+    },
+    {
+      "name": "The Witch",
+      "id": "the-witch"
+    },
+    {
+      "name": "Toronto Defiant Homestand 2020",
+      "id": "toronto-defiant-homestand-2020"
+    },
+    {
+      "name": "Toronto Defiant Logo",
+      "id": "toronto-defiant-logo"
+    },
+    {
+      "name": "Uncanny Speed",
+      "id": "uncanny-speed"
+    },
+    {
+      "name": "Vancouver Titans Homestand 2020",
+      "id": "vancouver-titans-homestand-2020"
+    },
+    {
+      "name": "Vancouver Titans Logo",
+      "id": "vancouver-titans-logo"
+    },
+    {
+      "name": "Vengeful Ghost",
+      "id": "vengeful-ghost"
+    },
+    {
+      "name": "Victory",
+      "id": "victory"
+    },
+    {
+      "name": "Viking Fury",
+      "id": "viking-fury"
+    },
+    {
+      "name": "Vivi's Adventure",
+      "id": "vivis-adventure"
+    },
+    {
+      "name": "Washington Justice Homestand 2020",
+      "id": "washington-justice-homestand-2020"
+    },
+    {
+      "name": "Washington Justice Logo",
+      "id": "washington-justice-logo"
+    },
+    {
+      "name": "Watching Ball",
+      "id": "watching-ball"
+    },
+    {
+      "name": "Watchparty: Gibraltar",
+      "id": "watchparty-gibraltar"
+    },
+    {
+      "name": "Well Played",
+      "id": "well-played"
+    },
+    {
+      "name": "Winter Wonderland",
+      "id": "winter-wonderland"
+    },
+    {
+      "name": "Witch Doctor",
+      "id": "witch-doctor"
+    },
+    {
+      "name": "Witch's Brew",
+      "id": "witchs-brew"
+    },
+    {
+      "name": "Wizard",
+      "id": "wizard"
+    },
+    {
+      "name": "Year of the Dog",
+      "id": "year-of-the-dog"
+    },
+    {
+      "name": "Year of the Rat",
+      "id": "year-of-the-rat"
+    },
+    {
+      "name": "Year of the Rooster",
+      "id": "year-of-the-rooster"
+    },
+    {
+      "name": "Yeti",
+      "id": "yeti"
+    },
+    {
+      "name": "Yeti Hunter",
+      "id": "yeti-hunter"
+    },
+    {
+      "name": "Yeti Rage",
+      "id": "yeti-rage"
+    },
+    {
+      "name": "You are not prepared!",
+      "id": "you-are-not-prepared"
+    },
+    {
+      "name": "Zombarded",
+      "id": "zombarded"
+    },
+    {
+      "name": "Zombardier",
+      "id": "zombardier"
+    },
+    {
+      "name": "Zomnic",
+      "id": "zomnic"
+    }
+  ]
+}
