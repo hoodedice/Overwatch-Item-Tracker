@@ -788,7 +788,7 @@ OWI.factory('UrlService', function() {
   var isLocal = location.host === 'localhost:5003'
   var imageHost = isLocal
     ? 'http://localhost:5003/resources'
-    : 'https://overwatchitemtracker.com/resources'
+    : 'https://owarmory.com/resources'
 
   return {
     get: function(url) {

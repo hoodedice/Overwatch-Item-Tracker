@@ -532,8 +532,7 @@ OWI.controller('SettingsCtrl', ["$rootScope", "$scope", "$uibModal", "$uibModalI
     // I can see why angular 1.x was killed
     DBService.save_json(JSON.stringify({params: vm.data}))
       .then(function(res) {
-        console.log(location.host);
-        StorageService.setUrl(vm.url = "http://localhost:5003/view/" + res.data.url);
+        StorageService.setUrl(vm.url = "http://" + location.host + "/view/" + res.data.url);
         console.log(StorageService.getUrl());
       });
 
