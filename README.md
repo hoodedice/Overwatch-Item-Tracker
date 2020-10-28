@@ -1,6 +1,6 @@
 # Overwatch Item Tracker -- DB Fork
 
-Live version at: https://51.15.109.44/overwatch-item-tkr
+Live version at: http://owarmory.com
 
 **Overwatch Item Tracker enables you to track your Overwatch collection progress for every hero and event added to the game.** This fork adds a simple express backend, a sqlite database connection, and a button to generate a URL to share your item list. This was sponsored by a client I contacted on discord.
 
