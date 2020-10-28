@@ -69,6 +69,10 @@ app.get('/load-json/:url', function (req, res) {
   });
 });
 
+app.get('/parser', function(req, res, next) {
+  if (req.url === "/save-json") return next();
+  res.sendFile(path.resolve(__dirname + '/public/parser/index.html'));
+});
 
 app.get('/*', (req, res, next) => {
   if (req.url === "/save-json") return next();
