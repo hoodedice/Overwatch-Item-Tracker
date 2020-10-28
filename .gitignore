@@ -11,3 +11,4 @@ webserver.py
 helpers/dataMapper/rawData/
 *.ini
 .vscode
+*.sqlite3
